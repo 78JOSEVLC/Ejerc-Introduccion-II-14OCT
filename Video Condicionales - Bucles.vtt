@@ -1,0 +1,4754 @@
+WEBVTT
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/51-0
+00:00:09.755 --> 00:00:12.505
+<v Full stack Full Time>Estoy con el ordenador, deposito
+la Cámara donde dejas ponerla.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/88-0
+00:00:14.395 --> 00:00:18.257
+<v Full stack Full Time>Yo no he visto alguna, dice que
+Pablo será por el gol, claro que</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/88-1
+00:00:18.257 --> 00:00:21.466
+<v Full stack Full Time>sí, y era por el por el
+micrófono, Este ordenador, el</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/88-2
+00:00:21.466 --> 00:00:22.535
+<v Full stack Full Time>micrófono de aquí.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/113-0
+00:00:23.085 --> 00:00:26.364
+<v Full stack Full Time>No sé si tiene algo que ver,
+pero abajo a la izquierda parece</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/113-1
+00:00:26.364 --> 00:00:29.695
+<v Full stack Full Time>que estás muy criada, sí, pero
+este es este ordenador de aquí.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/131-0
+00:00:29.825 --> 00:00:33.395
+<v Full stack Full Time>Este está última ahora, pero de
+aquí que es un ordenador.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/149-0
+00:00:33.445 --> 00:00:35.461
+<v Full stack Full Time>He puesto eso porque, claro, lo
+bueno de este micrófono es que</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/149-1
+00:00:35.461 --> 00:00:36.325
+<v Full stack Full Time>os coja a vosotros también.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/176-0
+00:00:36.335 --> 00:00:39.634
+<v Full stack Full Time>¿Y si le preguntáis, se os oye
+tengo que vería luego alguien me</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/176-1
+00:00:39.634 --> 00:00:41.645
+<v Full stack Full Time>lo confirma, que se vea la clase
+vale?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/200-0
+00:00:42.545 --> 00:00:45.056
+<v Full stack Full Time>¿Y si hay algún tipo de error
+tal estaría guay que alguien se</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/200-1
+00:00:45.056 --> 00:00:46.555
+<v Full stack Full Time>dice las calles y me lo digo,
+Sabes?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/213-0
+00:00:46.565 --> 00:00:49.825
+<v Full stack Full Time>En plan porque si no, seguiré
+grabando más las clases.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/232-0
+00:00:51.635 --> 00:00:56.455
+<v Full stack Full Time>Sí, vale, qué vamos a ver hoy
+vamos a ver un montón de cosas.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/287-0
+00:00:56.465 --> 00:00:59.858
+<v Full stack Full Time>¿Hoy la verdad, vamos a ver
+condicionales, vale lo de los</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/287-1
+00:00:59.858 --> 00:01:03.368
+<v Full stack Full Time>ift cumple esta condición,
+entonces tal vale se llama a ver</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/287-2
+00:01:03.368 --> 00:01:06.702
+<v Full stack Full Time>los días de programación, los
+operadores, operadores que</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/287-3
+00:01:06.702 --> 00:01:10.154
+<v Full stack Full Time>estaba hablando de antes de
+igual a igual, no sé qué no sé</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/287-4
+00:01:10.154 --> 00:01:12.435
+<v Full stack Full Time>ese tipo de, pero hay un montón,
+vale?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/307-0
+00:01:13.035 --> 00:01:16.392
+<v Full stack Full Time>Pues vamos a verlos, luego
+veremos los bucles Stone AGE,</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/307-1
+00:01:16.392 --> 00:01:19.455
+<v Full stack Full Time>pero seguro que habéis escuchado
+la palabra Google.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/325-0
+00:01:19.985 --> 00:01:22.902
+<v Full stack Full Time>Vale cuando entramos en bucle de
+allá, pues eso, pero estabas</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/325-1
+00:01:22.902 --> 00:01:23.325
+<v Full stack Full Time>bien, sí.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/350-0
+00:01:24.405 --> 00:01:27.608
+<v Full stack Full Time>Y por último, haremos como una
+parte de práctica que será que</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/350-1
+00:01:27.608 --> 00:01:29.985
+<v Full stack Full Time>haremos juntos ejercicios que
+pondré yo aquí.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/371-0
+00:01:29.995 --> 00:01:34.558
+<v Full stack Full Time>Me diréis vosotros, cómo
+resolverlos sobre lo que hemos</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/371-1
+00:01:34.558 --> 00:01:38.795
+<v Full stack Full Time>visto, vale, entonces es un
+condicional. En Jasper.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/378-0
+00:01:39.075 --> 00:01:40.575
+<v Full stack Full Time>¿Alguien sabría decirme que
+condicional?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/390-0
+00:01:43.315 --> 00:01:44.475
+<v Full stack Full Time>Todos a la vez, no por favor.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/399-0
+00:01:44.775 --> 00:01:46.365
+<v Full stack Full Time>¿Una prisión que suba algo con
+tu Bochons?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/405-0
+00:01:48.805 --> 00:01:50.555
+<v Full stack Full Time>Correcto, Luis.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/416-0
+00:01:50.565 --> 00:01:54.245
+<v Full stack Full Time>¿Es increíble, estudiaba
+estudiado, pero para qué?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/467-0
+00:01:54.255 --> 00:01:58.335
+<v Full stack Full Time>Es esto de los condicionales
+para ver si se ejecuta o no el</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/467-1
+00:01:58.335 --> 00:02:02.619
+<v Full stack Full Time>código, sí, tal cosa es cierta,
+pues sucede tal otra cosa, eso</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/467-2
+00:02:02.619 --> 00:02:06.971
+<v Full stack Full Time>está muy bien explicado, sabes
+decir que tu pones una condición</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/467-3
+00:02:06.971 --> 00:02:09.895
+<v Full stack Full Time>y yo quiero que solo se ejecute
+mi código.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/552-0
+00:02:09.905 --> 00:02:12.875
+<v Full stack Full Time>¿Si cumple esta condición y si
+no la cumple, o sea, si no</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/552-1
+00:02:12.875 --> 00:02:15.947
+<v Full stack Full Time>cumple esa condición, pues que
+haga otra cosa, por ejemplo,</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/552-2
+00:02:15.947 --> 00:02:19.224
+<v Full stack Full Time>cuando hacéis lo mismo vale, si
+tú pones tus credenciales y son</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/552-3
+00:02:19.224 --> 00:02:22.296
+<v Full stack Full Time>correctas que hacen, te envía
+para dentro de la aplicación,</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/552-4
+00:02:22.296 --> 00:02:25.573
+<v Full stack Full Time>pero si no es correcta, entonces
+no se cumple la condición y te</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/552-5
+00:02:25.573 --> 00:02:28.799
+<v Full stack Full Time>quedas ahí, te dice, Oye, te has
+equivocado la contraseña, por</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/552-6
+00:02:28.799 --> 00:02:31.922
+<v Full stack Full Time>ejemplo, habéis visto cómo se
+usarían los condicionales para</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/552-7
+00:02:31.922 --> 00:02:32.485
+<v Full stack Full Time>Full Gates?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/585-0
+00:02:33.625 --> 00:02:36.435
+<v Full stack Full Time>Entonces la Latina definición,
+condición, expresión que se</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/585-1
+00:02:36.435 --> 00:02:39.435
+<v Full stack Full Time>evalúa como True of Souls, es
+decir, si se cumple la sexta, si</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/585-2
+00:02:39.435 --> 00:02:40.435
+<v Full stack Full Time>no se cumple la loto.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/619-0
+00:02:42.095 --> 00:02:45.016
+<v Full stack Full Time>¿Mal no ser un ejemplo en la
+vida real, sí, imaginas que</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/619-1
+00:02:45.016 --> 00:02:48.143
+<v Full stack Full Time>estamos en la entrada de una
+discoteca que todos aquí seguro</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/619-2
+00:02:48.143 --> 00:02:50.295
+<v Full stack Full Time>que habéis ido a una discoteca,
+Eh? Vine.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/633-0
+00:02:52.685 --> 00:02:55.675
+<v Full stack Full Time>En vista no me extraña y 3,
+bueno, tú.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/660-0
+00:02:55.685 --> 00:03:00.109
+<v Full stack Full Time>Cuando lo enseñaste, el DNIY
+Mira Ah, es mayor de edad, pasa</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/660-1
+00:03:00.109 --> 00:03:02.865
+<v Full stack Full Time>Uy eres menor, no pasas eso al
+final.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/687-0
+00:03:02.875 --> 00:03:06.774
+<v Full stack Full Time>¿Qué es una condición condición
+si eres mayor de edad, si tu</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/687-1
+00:03:06.774 --> 00:03:09.905
+<v Full stack Full Time>edad es igual a 18 o más, puede
+pasar discoteca?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/699-0
+00:03:10.275 --> 00:03:14.645
+<v Full stack Full Time>¿Sí, no tiene 18, no pasas, se
+entiende, vale?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/707-0
+00:03:14.655 --> 00:03:15.835
+<v Full stack Full Time>¿Cómo podríamos eso en
+javascript?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/716-0
+00:03:17.075 --> 00:03:18.845
+<v Full stack Full Time>¿Vale, pues, cómo se escribe?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/729-0
+00:03:18.855 --> 00:03:22.805
+<v Full stack Full Time>Eso esta es la estructura, yo
+pongo ir, vale.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/747-0
+00:03:23.185 --> 00:03:26.783
+<v Full stack Full Time>Paréntesis y aquí pongo mi
+condición y la edad es mayor o</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/747-1
+00:03:26.783 --> 00:03:27.465
+<v Full stack Full Time>igual a 18.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/751-0
+00:03:27.775 --> 00:03:28.745
+<v Full stack Full Time>¿Puedes pasar la discoteca?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/771-0
+00:03:30.045 --> 00:03:34.335
+<v Full stack Full Time>Él es sino de que sí cumple la
+condición horas este código.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/788-0
+00:03:34.785 --> 00:03:37.695
+<v Full stack Full Time>Él se es, si no lo cumple, si tu
+nunca cumple esta condición.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/799-0
+00:03:37.705 --> 00:03:39.005
+<v Full stack Full Time>Entradas aquí y haz este otro
+código.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/811-0
+00:03:40.095 --> 00:03:44.657
+<v Full stack Full Time>Se entiende bien, vale, como
+siempre me confunde un poco el</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/811-1
+00:03:44.657 --> 00:03:45.265
+<v Full stack Full Time>tema de.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/827-0
+00:03:47.335 --> 00:03:48.985
+<v Full stack Full Time>¿La techa cómo se llama llaves?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/867-0
+00:03:49.265 --> 00:03:52.153
+<v Full stack Full Time>Sí es que en un sitio son de un
+tipo, en el otro de otro</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/867-1
+00:03:52.153 --> 00:03:55.141
+<v Full stack Full Time>también, que lo voy a hacer
+porque, por ejemplo, Estas son</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/867-2
+00:03:55.141 --> 00:03:58.485
+<v Full stack Full Time>las llaves de objeto, pero luego
+somos una raison corchetes, sino</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/867-3
+00:03:58.485 --> 00:04:00.055
+<v Full stack Full Time>también es aprendiendo, viendo.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/885-0
+00:04:02.715 --> 00:04:05.454
+<v Full stack Full Time>Y esto es para abrir bloques de
+código, por ejemplo, las</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/885-1
+00:04:05.454 --> 00:04:05.935
+<v Full stack Full Time>funciones.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/889-0
+00:04:05.945 --> 00:04:06.665
+<v Full stack Full Time>También lo veréis.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/904-0
+00:04:07.075 --> 00:04:09.665
+<v Full stack Full Time>Vuelos de código y para los
+objetos también es conforme lo</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/904-1
+00:04:09.665 --> 00:04:10.455
+<v Full stack Full Time>vayas aprendiendo.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/968-0
+00:04:10.465 --> 00:04:13.846
+<v Full stack Full Time>¿Acuérdate que los condicionales
+también lo vas a ver, que la</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/968-1
+00:04:13.846 --> 00:04:17.336
+<v Full stack Full Time>condición siempre en parking sí
+vale, en él se lo lleva, porque</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/968-2
+00:04:17.336 --> 00:04:20.717
+<v Full stack Full Time>ése es no se cumple esto, pues
+aquí directamente no lleva una</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/968-3
+00:04:20.717 --> 00:04:24.097
+<v Full stack Full Time>condición, sí vale, pero una
+condición en sí mismo y de dónde</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/968-4
+00:04:24.097 --> 00:04:25.515
+<v Full stack Full Time>es lo que si no se cumple?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/975-0
+00:04:25.525 --> 00:04:27.575
+<v Full stack Full Time>Esto entra ya cuando falta
+especificar nada.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/986-0
+00:04:29.085 --> 00:04:32.955
+<v Full stack Full Time>¿Vale o K, pues imaginamos el
+ejemplo de discoteca?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1000-0
+00:04:32.965 --> 00:04:36.125
+<v Full stack Full Time>No tenemos una variable era y
+aquí guardamos una edad.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1012-0
+00:04:36.205 --> 00:04:41.535
+<v Full stack Full Time>Sí, entonces decimos sí heights
+o Recordáis mate, es mayor.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1052-0
+00:04:41.915 --> 00:04:47.335
+<v Full stack Full Time>Si la edad es mayor igual a 18,
+entonces le vamos a decir que a</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1052-1
+00:04:47.335 --> 00:04:52.246
+<v Full stack Full Time>un consular de eres mayor de
+edad, y si no, si tú no eres</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1052-2
+00:04:52.246 --> 00:04:55.125
+<v Full stack Full Time>mayor, igual a 18 que eres
+menos.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1066-0
+00:04:55.135 --> 00:04:58.786
+<v Full stack Full Time>¿Entonces le diríamos que con
+solo eres menor de edad,</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1066-1
+00:04:58.786 --> 00:04:59.715
+<v Full stack Full Time>entiende esto?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1068-0
+00:05:00.145 --> 00:05:00.485
+<v Full stack Full Time>Vamos a.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1126-0
+00:05:02.765 --> 00:05:05.271
+<v Full stack Full Time>Simple se formula con el
+consoló, no sé, Full es un</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1126-1
+00:05:05.271 --> 00:05:08.066
+<v Full stack Full Time>ejemplo, pero no me entero por
+lo que harás, es poner una</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1126-2
+00:05:08.066 --> 00:05:10.958
+<v Full stack Full Time>funcionalidad, por ejemplo, del
+típico login de vete a esta</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1126-3
+00:05:10.958 --> 00:05:13.608
+<v Full stack Full Time>vista o muéstrame esto al
+principio, Lares consuelos y</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1126-4
+00:05:13.608 --> 00:05:14.765
+<v Full stack Full Time>luego ya veis otra cosa.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1131-0
+00:05:19.185 --> 00:05:21.025
+<v Full stack Full Time>Y penales.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1133-0
+00:05:24.775 --> 00:05:25.015
+<v Full stack Full Time>¿Vale?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1143-0
+00:05:27.645 --> 00:05:29.125
+<v Full stack Full Time>Vamos a cargar 7 m L.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1158-0
+00:05:34.065 --> 00:05:36.755
+<v Full stack Full Time>Quiero la estructura y ya me
+conecto.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1166-0
+00:05:36.975 --> 00:05:40.925
+<v Full stack Full Time>Me importa ese para poner el
+punto barra así.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1180-0
+00:05:40.935 --> 00:05:45.155
+<v Full stack Full Time>O sea, completa ponerlo y voy a
+crearme el archivo.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1184-0
+00:05:45.155 --> 00:05:45.875
+<v Full stack Full Time>¿Mejores, EH?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1201-0
+00:05:49.365 --> 00:05:51.949
+<v Full stack Full Time>Vale lo primero que yo cuando
+hago este tipo de cosas, es</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1201-1
+00:05:51.949 --> 00:05:52.305
+<v Full stack Full Time>consoló.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1203-0
+00:05:53.175 --> 00:05:54.255
+<v Full stack Full Time>¿Estás conectado?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1209-0
+00:05:54.735 --> 00:05:57.685
+<v Full stack Full Time>Sí, lo primero abre Live.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1222-0
+00:06:00.315 --> 00:06:02.945
+<v Full stack Full Time>Se me abre Ah me doy clínica
+inspeccionar.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1281-0
+00:06:05.915 --> 00:06:08.959
+<v Full stack Full Time>Voy a la consola y veis que con
+solo dos Dias eso es lo primero</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1281-1
+00:06:08.959 --> 00:06:11.670
+<v Full stack Full Time>que tengo que mirar antes de
+ponerme a hacer ejercicios,</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1281-2
+00:06:11.670 --> 00:06:14.715
+<v Full stack Full Time>porque como yo me pongo a hacer
+cosas y esto esté mal conectado</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1281-3
+00:06:14.715 --> 00:06:17.521
+<v Full stack Full Time>por lo que sea la modalidad
+vale, vale, ya lo tengo, o sea</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1281-4
+00:06:17.521 --> 00:06:18.805
+<v Full stack Full Time>ya vamos a hacer el Código.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1305-0
+00:06:20.885 --> 00:06:24.729
+<v Full stack Full Time>¿Entonces, ahora con lo que os
+he explicado qué consuelo se va</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1305-1
+00:06:24.729 --> 00:06:26.865
+<v Full stack Full Time>a mostrar el primero o el
+segundo?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1309-0
+00:06:27.855 --> 00:06:28.775
+<v Full stack Full Time>¿Eres mayor de edad?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1323-0
+00:06:30.135 --> 00:06:37.025
+<v Full stack Full Time>El primero, sí, muy bien, vale,
+y si yo pongo esto pasa mostrar.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1330-0
+00:06:39.635 --> 00:06:43.105
+<v Full stack Full Time>¿Vale, y si yo pongo es?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1343-0
+00:06:47.355 --> 00:06:48.945
+<v Full stack Full Time>Y esto que con relación a
+gustar.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1365-0
+00:06:51.245 --> 00:06:54.886
+<v Full stack Full Time>¿Porque el segundo porque ya no
+hashtag 18, tiene que ser mayor</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1365-1
+00:06:54.886 --> 00:06:55.455
+<v Full stack Full Time>de 18, no?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1383-0
+00:06:55.845 --> 00:07:01.195
+<v Full stack Full Time>Sí, muy bien, vale, porque ahora
+tiene que ser mayor, no igual si</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1383-1
+00:07:01.195 --> 00:07:01.925
+<v Full stack Full Time>mayor 18.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1386-0
+00:07:01.935 --> 00:07:02.705
+<v Full stack Full Time>¿Es mayor de 18?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1397-0
+00:07:03.895 --> 00:07:06.025
+<v Full stack Full Time>¿No, entonces entra en segundo,
+eso se entiende?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1403-0
+00:07:07.595 --> 00:07:09.685
+<v Full stack Full Time>Vale, lo voy a dejar así.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1417-0
+00:07:13.365 --> 00:07:18.375
+<v Full stack Full Time>¿Vale dudas aquí lo entendemos
+que ir vale, EH?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1423-0
+00:07:18.385 --> 00:07:19.715
+<v Full stack Full Time>¿Voy a poner, vale?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1426-0
+00:07:20.245 --> 00:07:21.565
+<v Full stack Full Time>Voy a poner aquí con.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1429-0
+00:07:23.455 --> 00:07:23.905
+<v Full stack Full Time>Frente.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1431-0
+00:07:25.715 --> 00:07:25.975
+<v Full stack Full Time>Sí.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1458-0
+00:07:28.665 --> 00:07:32.841
+<v Full stack Full Time>¿Ir nombre, esto quieres que yo
+quiero que prestes mucha</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1458-1
+00:07:32.841 --> 00:07:36.065
+<v Full stack Full Time>atención, que es un error muy
+típico, vale?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1471-0
+00:07:37.785 --> 00:07:39.455
+<v Full stack Full Time>Sí, yo, pero se lo voy a decir.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1476-0
+00:07:39.465 --> 00:07:41.415
+<v Full stack Full Time>Aquí pongo este igual.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1486-0
+00:07:42.025 --> 00:07:45.995
+<v Full stack Full Time>Sí, este igual es de asignación
+para guardar algo.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1495-0
+00:07:46.615 --> 00:07:51.205
+<v Full stack Full Time>¿Si yo pongo dos iguales es para
+comparar, vale?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1528-0
+00:07:52.735 --> 00:07:55.732
+<v Full stack Full Time>¿Y los 3 iguales es para
+comparar también, pero hay un</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1528-1
+00:07:55.732 --> 00:07:59.273
+<v Full stack Full Time>pequeño matiz que los explicar,
+este tipo no muy bien, no es que</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1528-2
+00:07:59.273 --> 00:08:00.145
+<v Full stack Full Time>me he hecho, no?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1542-0
+00:08:00.155 --> 00:08:02.715
+<v Full stack Full Time>¿De verdad tener bien, digo, voy
+a venir paraguas?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1544-0
+00:08:02.725 --> 00:08:02.975
+<v Full stack Full Time>¿No?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1551-0
+00:08:03.135 --> 00:08:04.445
+<v Full stack Full Time>Exacto, es muy Luis.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1561-0
+00:08:04.455 --> 00:08:05.315
+<v Full stack Full Time>Siempre se hacen los deberes.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1581-0
+00:08:05.325 --> 00:08:08.420
+<v Full stack Full Time>Me encanta, tío, va a ser muy
+bueno programando si sigues</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1581-1
+00:08:08.420 --> 00:08:10.555
+<v Full stack Full Time>hashtag, señor, va, esto es
+asignación.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1585-0
+00:08:13.335 --> 00:08:14.525
+<v Full stack Full Time>Esto comparación.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1604-0
+00:08:16.865 --> 00:08:22.152
+<v Full stack Full Time>Y este compara también y tipo
+también, sí, esto que veis aquí</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1604-1
+00:08:22.152 --> 00:08:23.005
+<v Full stack Full Time>he puesto.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1609-0
+00:08:23.115 --> 00:08:23.595
+<v Full stack Full Time>¿Qué es eso?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1618-0
+00:08:23.655 --> 00:08:28.595
+<v Full stack Full Time>Parecía igual, no vale aquí que
+es un hombre.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1643-0
+00:08:30.225 --> 00:08:34.230
+<v Full stack Full Time>Vales Comuniz, bueno, pero le
+voy a poner así por ahora y</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1643-1
+00:08:34.230 --> 00:08:36.095
+<v Full stack Full Time>luego ya veremos, eso vale.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1651-0
+00:08:36.565 --> 00:08:40.875
+<v Full stack Full Time>Entonces yo voy a poner ir,
+nombre, nombre, igual listo.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1654-0
+00:08:44.245 --> 00:08:44.635
+<v Full stack Full Time>Solo.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1660-0
+00:08:47.505 --> 00:08:48.085
+<v Full stack Full Time>Iba a poner aquí.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1664-0
+00:08:49.655 --> 00:08:51.695
+<v Full stack Full Time>Mi nombre es.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1670-0
+00:08:54.715 --> 00:08:58.255
+<v Full stack Full Time>¿No vale y si no?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1679-0
+00:09:01.255 --> 00:09:02.485
+<v Full stack Full Time>¿No te has hecho ahí?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1682-0
+00:09:02.495 --> 00:09:03.775
+<v Full stack Full Time>No muy bien.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1702-0
+00:09:05.965 --> 00:09:10.415
+<v Full stack Full Time>¿No me llamo y el nombre que
+habíamos puesto, vale?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1756-0
+00:09:11.775 --> 00:09:14.864
+<v Full stack Full Time>Entonces veis que puesto este de
+comparación, cuando vas muy</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1756-1
+00:09:14.864 --> 00:09:18.054
+<v Full stack Full Time>deprisa y estáis empezando un
+error muy típico, es que pongáis</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1756-2
+00:09:18.054 --> 00:09:21.193
+<v Full stack Full Time>esto para comparar y esto no
+estaría bien porque lo que estoy</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1756-3
+00:09:21.193 --> 00:09:24.282
+<v Full stack Full Time>diciendo es que el hombre va a
+hacer igual a Víctor le estoy</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1756-4
+00:09:24.282 --> 00:09:25.295
+<v Full stack Full Time>asignando ese valor.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1784-0
+00:09:25.545 --> 00:09:28.223
+<v Full stack Full Time>Es el error típico cuando
+empezáis, pero si yo quiero</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1784-1
+00:09:28.223 --> 00:09:31.100
+<v Full stack Full Time>comparar que esto sea igual
+igual a esto, tengo que poner</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1784-2
+00:09:31.100 --> 00:09:31.645
+<v Full stack Full Time>mínimo dos.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1807-0
+00:09:33.475 --> 00:09:37.047
+<v Full stack Full Time>Se entiende, sí, vale, qué va a
+ser que con solo va a salir mi</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1807-1
+00:09:37.047 --> 00:09:38.635
+<v Full stack Full Time>nombre es Víctor el primero.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1814-0
+00:09:38.755 --> 00:09:43.095
+<v Full stack Full Time>¿Sí, muy bien, vale, y si yo
+pongo ahora?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1828-0
+00:09:45.805 --> 00:09:49.365
+<v Full stack Full Time>¿Esto no me llamo, no me llamo,
+no me llamo Qué Catalina?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1834-0
+00:09:50.265 --> 00:09:51.025
+<v Full stack Full Time>No muy bien.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1858-0
+00:09:51.035 --> 00:09:53.840
+<v Full stack Full Time>Segundos con solo vale no me
+llamo Catalina porque yo con</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1858-1
+00:09:53.840 --> 00:09:56.355
+<v Full stack Full Time>Catalina porque se llama
+Catalina porque es Víctor.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1877-0
+00:09:56.625 --> 00:10:02.943
+<v Full stack Full Time>¿La condición espera que seas
+Víctor, se entiende, esto vale,</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1877-1
+00:10:02.943 --> 00:10:05.695
+<v Full stack Full Time>ahora voy a abrir Joan, Eh?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1900-0
+00:10:05.755 --> 00:10:08.928
+<v Full stack Full Time>Sí, yo necesito un poco más de
+tiempo, claro, y preguntas que</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1900-1
+00:10:08.928 --> 00:10:09.695
+<v Full stack Full Time>yo no entiendo.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1909-0
+00:10:09.915 --> 00:10:12.995
+<v Full stack Full Time>¿Pero antes arriba, en la
+constante, ponía Víctor, no?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1946-0
+00:10:13.125 --> 00:10:15.717
+<v Full stack Full Time>Sí, vale, y ahora lo has
+cambiado, claro, en plan será</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1946-1
+00:10:15.717 --> 00:10:18.781
+<v Full stack Full Time>Víctor, sí, por eso ha entrado,
+porque Víctor es igual a Víctor,</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1946-2
+00:10:18.781 --> 00:10:21.515
+<v Full stack Full Time>pero vosotros cuando yo pongo el
+nombre al final es esto.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1957-0
+00:10:21.725 --> 00:10:23.795
+<v Full stack Full Time>O sea, esto es ahora mismo pone
+Catalina.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1965-0
+00:10:24.105 --> 00:10:25.255
+<v Full stack Full Time>Todo es Catalina, es igual.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1975-0
+00:10:25.265 --> 00:10:28.915
+<v Full stack Full Time>¿Igual a Víctor no, pero cuando
+estaba Víctor, vale?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1993-0
+00:10:28.925 --> 00:10:32.195
+<v Full stack Full Time>Víctor es igual, igual a Víctor,
+sí, no es lo mismo esto que esto</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/1993-1
+00:10:32.195 --> 00:10:33.285
+<v Full stack Full Time>entonces entraba aquí.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/2008-0
+00:10:34.225 --> 00:10:37.338
+<v Full stack Full Time>¿Ah, pero pero arriba, en la
+constante, antes había Víctor,</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/2008-1
+00:10:37.338 --> 00:10:38.375
+<v Full stack Full Time>Cuáles voy a entrar?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/2027-0
+00:10:38.685 --> 00:10:41.743
+<v Full stack Full Time>O sea, si yo la pongo Víctor
+Víctor es igual a Víctor,</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/2027-1
+00:10:41.743 --> 00:10:43.745
+<v Full stack Full Time>entonces dice, mi nombre es
+Víctor.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/2029-0
+00:10:45.145 --> 00:10:45.845
+<v Full stack Full Time>¿Se entiende?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/2061-0
+00:10:45.885 --> 00:10:54.327
+<v Full stack Full Time>Sí, bueno, hazme explicar esto
+de aquí sí no, lo con otros</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/2061-1
+00:10:54.327 --> 00:11:03.055
+<v Full stack Full Time>ejemplo es cons number sí, y
+bueno, siempre entendible y no.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/2067-0
+00:11:05.785 --> 00:11:07.875
+<v Full stack Full Time>¿Es igual igual a 7?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/2074-0
+00:11:09.995 --> 00:11:13.035
+<v Full stack Full Time>Consoló, es verdad.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/2082-0
+00:11:15.575 --> 00:11:18.095
+<v Full stack Full Time>Este número es un si es.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/2100-0
+00:11:23.895 --> 00:11:32.055
+<v Full stack Full Time>¿Y si no, este número no es un
+7, no se entiende, vale?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/2106-0
+00:11:32.065 --> 00:11:34.715
+<v Full stack Full Time>¿Qué va a salir por eh pantalla?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/2132-0
+00:11:37.185 --> 00:11:42.242
+<v Full stack Full Time>¿Vale este número es 7 o K sí,
+yo ahora pongo en vez 7 pongo</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/2132-1
+00:11:42.242 --> 00:11:44.895
+<v Full stack Full Time>esto, qué vas a ir por pantalla?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/2145-0
+00:11:46.325 --> 00:11:50.365
+<v Full stack Full Time>¿Este funciona, no, eso quién
+dice que sale el primer cónsul?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/2151-0
+00:11:50.485 --> 00:11:51.205
+<v Full stack Full Time>Que Levante la mano.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/2161-0
+00:11:55.525 --> 00:11:59.055
+<v Full stack Full Time>Vale, bien, viste que sale el
+segundo con solo.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/2183-0
+00:12:01.155 --> 00:12:06.325
+<v Full stack Full Time>El Vivas a mi toda la vida me
+levantados, vale, porque porque</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/2183-1
+00:12:06.325 --> 00:12:06.825
+<v Full stack Full Time>quiso.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/2197-0
+00:12:06.865 --> 00:12:09.505
+<v Full stack Full Time>No es lo mismo porque este al
+menos es una estrenos.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/2226-0
+00:12:10.305 --> 00:12:15.146
+<v Full stack Full Time>Vale, tendrías que sí, que dice
+que es un es un 7, tendría que</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/2226-1
+00:12:15.146 --> 00:12:19.295
+<v Full stack Full Time>ser 3 veces iguales para exacto
+y yo le pongo celoso.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/2245-0
+00:12:19.635 --> 00:12:22.625
+<v Full stack Full Time>Esto lo que hace es compartido
+de datos más estricto.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/2253-0
+00:12:22.975 --> 00:12:26.145
+<v Full stack Full Time>¿Saben desde OYE Sientes lo
+mismo que 7?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/2273-0
+00:12:26.515 --> 00:12:29.432
+<v Full stack Full Time>Exactamente no, porque este es
+un número y ahora sí que me dice</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/2273-1
+00:12:29.432 --> 00:12:30.115
+<v Full stack Full Time>que no es un 7.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/2303-0
+00:12:30.375 --> 00:12:37.181
+<v Full stack Full Time>Sofía es mejor utilizar siempre
+los 3 porque yo eran los 3 no</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/2303-1
+00:12:37.181 --> 00:12:43.767
+<v Full stack Full Time>más recomendable, vale, se
+entiende lo de los 3 dudas hasta</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/2303-2
+00:12:43.767 --> 00:12:44.865
+<v Full stack Full Time>aquí bien.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/2309-0
+00:12:46.325 --> 00:12:48.015
+<v Full stack Full Time>Ah o K.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/2335-0
+00:12:49.705 --> 00:12:52.952
+<v Full stack Full Time>Seguimos con los inválida, que
+ya tenemos pillado más o menos</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/2335-1
+00:12:52.952 --> 00:12:55.675
+<v Full stack Full Time>este ahí el IPS vamos a
+complicarlo un poquito más.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/2379-0
+00:12:58.185 --> 00:13:01.234
+<v Full stack Full Time>En el sí, vale, a veces pueden
+que hayan varias condiciones, no</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/2379-1
+00:13:01.234 --> 00:13:04.282
+<v Full stack Full Time>solo una, entonces que cumplir
+varias, no, por ejemplo, a veces</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/2379-2
+00:13:04.282 --> 00:13:07.092
+<v Full stack Full Time>que para crearte una cuenta
+tienes que la contraseña tiene</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/2379-3
+00:13:07.092 --> 00:13:08.045
+<v Full stack Full Time>que tener su contra.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/2385-0
+00:13:08.065 --> 00:13:08.705
+<v Full stack Full Time>¿Estará crees?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/2418-0
+00:13:09.045 --> 00:13:12.046
+<v Full stack Full Time>¿El correo tiene que ser un
+correo que sea arroba, no sé</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/2418-1
+00:13:12.046 --> 00:13:15.152
+<v Full stack Full Time>qué, que tu edad no puede ser
+menor, que no sé cuántos hay</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/2418-2
+00:13:15.152 --> 00:13:17.205
+<v Full stack Full Time>varias condiciones por lo que
+sea, no?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/2428-0
+00:13:17.375 --> 00:13:21.025
+<v Full stack Full Time>Entonces, túneles puede tener, o
+sea, ni puede, un condicional.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/2464-0
+00:13:21.035 --> 00:13:24.800
+<v Full stack Full Time>Y puede tener un IY siempre que
+puede haber otro, insistir y</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/2464-1
+00:13:24.800 --> 00:13:28.133
+<v Full stack Full Time>luego ya le, si no cumples
+ninguna, vale, he, vamos a</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/2464-2
+00:13:28.133 --> 00:13:28.565
+<v Full stack Full Time>pensar.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/2469-0
+00:13:28.575 --> 00:13:30.355
+<v Full stack Full Time>¿Otro ejemplo, os acordáis?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/2506-0
+00:13:30.435 --> 00:13:33.708
+<v Full stack Full Time>El jefe de Hipoteca, pues
+normalmente no están de</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/2506-1
+00:13:33.708 --> 00:13:37.898
+<v Full stack Full Time>seguridad y tiene un chico, una
+chica, y se vale, tú eres mayor</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/2506-2
+00:13:37.898 --> 00:13:41.105
+<v Full stack Full Time>de edad, pasas tu eres menor, no
+pasa hasta ahí.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/2511-0
+00:13:41.115 --> 00:13:41.795
+<v Full stack Full Time>¿Todos de acuerdo, verdad?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/2541-0
+00:13:42.925 --> 00:13:47.944
+<v Full stack Full Time>¿Qué ocurre, que ahora tiene y
+vende sobre dice usted, se dijo</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/2541-1
+00:13:47.944 --> 00:13:52.325
+<v Full stack Full Time>del jefe, tiene 17 años entonces
+la primera condición?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/2547-0
+00:13:52.335 --> 00:13:53.025
+<v Full stack Full Time>No la cumple.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/2585-0
+00:13:53.475 --> 00:13:57.547
+<v Full stack Full Time>Sí, la primera condición no la
+cumple, que es menor, pero vamos</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/2585-1
+00:13:57.547 --> 00:14:01.365
+<v Full stack Full Time>a otra condición que dice,
+bueno, si es menor de edad, pero</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/2585-2
+00:14:01.365 --> 00:14:04.865
+<v Full stack Full Time>es el hijo del jefe, entonces sí
+que le vamos a pasar.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/2611-0
+00:14:04.875 --> 00:14:08.022
+<v Full stack Full Time>¿Bueno, 17 el mes que viene
+cumple los 18 el hijo del jefe</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/2611-1
+00:14:08.022 --> 00:14:09.835
+<v Full stack Full Time>no le vamos a poner pegas,
+saben?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/2637-0
+00:14:09.845 --> 00:14:13.390
+<v Full stack Full Time>No, que el jefe se ocupe de su
+hijo, como frijol, ponemos otra</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/2637-1
+00:14:13.390 --> 00:14:16.035
+<v Full stack Full Time>condición, se entiende cuando
+salíamos del sí.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/2652-0
+00:14:17.205 --> 00:14:19.255
+<v Full stack Full Time>Primero, entenderlo antes de
+hacer el Código es el ejemplo.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/2664-0
+00:14:19.265 --> 00:14:23.285
+<v Full stack Full Time>¿Se entiende Víctor, te noto muy
+callada, hecho de menos, no?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/2670-0
+00:14:23.295 --> 00:14:24.615
+<v Full stack Full Time>No, bien bien, pero cada vez.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/2686-0
+00:14:26.475 --> 00:14:29.795
+<v Full stack Full Time>Cuando te quería desconcentrar
+para darle la ordenada.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/2725-0
+00:14:29.805 --> 00:14:33.421
+<v Full stack Full Time>La condición que se como que
+documente tiene que hacer, así,</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/2725-1
+00:14:33.421 --> 00:14:36.978
+<v Full stack Full Time>como si estuviese comentado, no
+estoy comentáis para que os</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/2725-2
+00:14:36.978 --> 00:14:39.705
+<v Full stack Full Time>imaginéis que te dé la gana, sí
+que lo pones.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/2729-0
+00:14:39.715 --> 00:14:40.855
+<v Full stack Full Time>¿Haces un string, no?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/2742-0
+00:14:40.865 --> 00:14:43.645
+<v Full stack Full Time>Y pones ahí lo que tú quieras
+que sea un consuelo.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/2761-0
+00:14:43.655 --> 00:14:46.297
+<v Full stack Full Time>¿Lo que nosotros hagamos lo yo,
+lo que quiero es que tengáis los</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/2761-1
+00:14:46.297 --> 00:14:47.435
+<v Full stack Full Time>bloques de los sitios, vale?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/2780-0
+00:14:48.865 --> 00:14:52.051
+<v Full stack Full Time>Bien, vamos a verlo en Código,
+ahora tenemos un objeto de una</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/2780-1
+00:14:52.051 --> 00:14:52.565
+<v Full stack Full Time>personita.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/2800-0
+00:14:53.775 --> 00:14:57.020
+<v Full stack Full Time>Esa personita tiene acordé que
+los objetos, igual llaves y</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/2800-1
+00:14:57.020 --> 00:14:58.395
+<v Full stack Full Time>luego tenían propiedades.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/2828-0
+00:14:58.405 --> 00:15:02.773
+<v Full stack Full Time>¿No, entonces la persona tiene
+edad que puede ser, pues en este</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/2828-1
+00:15:02.773 --> 00:15:06.527
+<v Full stack Full Time>caso tiene 17 y luego recordar
+que por cierto, esto es</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/2828-2
+00:15:06.527 --> 00:15:08.165
+<v Full stack Full Time>importante las comas EH?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/2879-0
+00:15:08.595 --> 00:15:11.548
+<v Full stack Full Time>¿Error cuando creas objetos, es
+que no pongas una coma después</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/2879-1
+00:15:11.548 --> 00:15:14.408
+<v Full stack Full Time>de la propiedad, si no os voy a
+Petar, tiene la propiedad de</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/2879-2
+00:15:14.408 --> 00:15:17.454
+<v Full stack Full Time>edad y luego tienes solo vos que
+esto es un booleano es hijo del</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/2879-3
+00:15:17.454 --> 00:15:18.345
+<v Full stack Full Time>jefe de Truth o no?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/2882-0
+00:15:18.385 --> 00:15:18.835
+<v Full stack Full Time>¿O falso?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/2896-0
+00:15:20.025 --> 00:15:23.235
+<v Full stack Full Time>Sí entonces, luego tenemos el
+ejemplo.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/2898-0
+00:15:23.245 --> 00:15:23.485
+<v Full stack Full Time>¿Ir?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/2907-0
+00:15:24.265 --> 00:15:26.035
+<v Full stack Full Time>¿Cómo estudiamos en la propiedad
+de un objeto?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/2909-0
+00:15:26.045 --> 00:15:26.675
+<v Full stack Full Time>¿Acordáis?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/2924-0
+00:15:27.065 --> 00:15:32.025
+<v Full stack Full Time>¿Este es el objeto cómo accedo
+con el coche a esos arrays?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/2931-0
+00:15:32.255 --> 00:15:35.335
+<v Full stack Full Time>Ah, es no punto.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/2956-0
+00:15:35.375 --> 00:15:38.409
+<v Full stack Full Time>Y la propiedad entonces, si no
+se equipan y person</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/2956-1
+00:15:38.409 --> 00:15:42.275
+<v Full stack Full Time>esteperson.es, es decir, accede
+a leyes, que en este caso es 17.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/2967-0
+00:15:42.885 --> 00:15:46.205
+<v Full stack Full Time>¿Es mayor, igual a 18 eres mayor
+de edad?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/2973-0
+00:15:46.455 --> 00:15:50.005
+<v Full stack Full Time>Sí, vale, sí, él sí.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/2991-0
+00:15:50.105 --> 00:15:54.955
+<v Full stack Full Time>¿Person juntos son los dos, vale
+decir, son vos tipo de gente?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/3021-0
+00:15:54.965 --> 00:15:58.554
+<v Full stack Full Time>Es un bullían, es igual, igual a
+tu, entonces no es mayor de</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/3021-1
+00:15:58.554 --> 00:16:02.261
+<v Full stack Full Time>edad, pero es el hijo del jefe y
+si no, pues hoy eres menor de</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/3021-2
+00:16:02.261 --> 00:16:02.555
+<v Full stack Full Time>edad.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/3029-0
+00:16:04.335 --> 00:16:05.365
+<v Full stack Full Time>Este código se entiende.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/3083-0
+00:16:05.375 --> 00:16:09.048
+<v Full stack Full Time>Yo tengo una duda muy bien
+porque no, pero vamos, que si no</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/3083-1
+00:16:09.048 --> 00:16:12.904
+<v Full stack Full Time>he entendido simplemente lo que
+yo no vos porque se escribe la</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/3083-2
+00:16:12.904 --> 00:16:16.822
+<v Full stack Full Time>primera, la S primera, minúscula
+luego o muy bien muy bien, muy</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/3083-3
+00:16:16.822 --> 00:16:19.515
+<v Full stack Full Time>buena pregunta, es me acostumbré
+ya me DIR.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/3106-0
+00:16:19.555 --> 00:16:22.866
+<v Full stack Full Time>¿Se llama caborubias muy bien y
+es que nosotros, tú, por</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/3106-1
+00:16:22.866 --> 00:16:25.712
+<v Full stack Full Time>ejemplo, no pones si yo
+imagínate, Luis, por eso</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/3106-2
+00:16:25.712 --> 00:16:26.235
+<v Full stack Full Time>apellido?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/3127-0
+00:16:27.595 --> 00:16:30.713
+<v Full stack Full Time>¿Vale, pues no, cuando creamos
+una variable que tiene dos, por</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/3127-1
+00:16:30.713 --> 00:16:32.395
+<v Full stack Full Time>ejemplo, tú no Harías Tu
+hermano?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/3144-0
+00:16:32.405 --> 00:16:34.915
+<v Full stack Full Time>Días, quiero guardar Luis no, y
+este es tu nombre.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/3148-0
+00:16:35.305 --> 00:16:35.975
+<v Full stack Full Time>José en Javascript.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/3159-0
+00:16:35.985 --> 00:16:38.495
+<v Full stack Full Time>Sí quiero crear una variable con
+este nombre.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/3191-0
+00:16:38.835 --> 00:16:42.871
+<v Full stack Full Time>La primera es en minúscula,
+entonces sería Luis vale y luego</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/3191-1
+00:16:42.871 --> 00:16:47.171
+<v Full stack Full Time>para Luis no, no es Luis Rioja,
+o sea, no se escribe estoasi.no,</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/3191-2
+00:16:47.171 --> 00:16:48.825
+<v Full stack Full Time>sino que es Luis y Rioja.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/3216-0
+00:16:48.985 --> 00:16:52.678
+<v Full stack Full Time>Pues poner un espacio, lo que se
+hace es poner la siguiente</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/3216-1
+00:16:52.678 --> 00:16:56.125
+<v Full stack Full Time>mayúscula y se nota que son
+palabras diferentes. ¿Vale?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/3235-0
+00:16:56.685 --> 00:17:00.833
+<v Full stack Full Time>A ver, lo puedes hacer así o
+puedes hacer Luis para Baja</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/3235-1
+00:17:00.833 --> 00:17:02.215
+<v Full stack Full Time>Rioja, por ejemplo.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/3247-0
+00:17:02.225 --> 00:17:05.875
+<v Full stack Full Time>Eso también le puede, pero
+javascript se usa esta forma.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/3275-0
+00:17:06.055 --> 00:17:09.871
+<v Full stack Full Time>La primera parece que se se pone
+la primera en minúscula y luego</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/3275-1
+00:17:09.871 --> 00:17:13.158
+<v Full stack Full Time>el resto de palabras la las
+separan por la siguiente en</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/3275-2
+00:17:13.158 --> 00:17:13.745
+<v Full stack Full Time>mayúscula.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/3290-0
+00:17:13.755 --> 00:17:17.792
+<v Full stack Full Time>La primera letra se entiende por
+eso es son las primeras en</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/3290-1
+00:17:17.792 --> 00:17:18.465
+<v Full stack Full Time>minúscula.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/3310-0
+00:17:18.815 --> 00:17:22.203
+<v Full stack Full Time>Lola o porque es otra palabra en
+mayúscula y luego ve como otra</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/3310-1
+00:17:22.203 --> 00:17:23.315
+<v Full stack Full Time>palabra en mayúscula.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/3316-0
+00:17:24.385 --> 00:17:26.315
+<v Full stack Full Time>Se entiende por Convención.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/3339-0
+00:17:26.405 --> 00:17:29.085
+<v Full stack Full Time>Eso es una Convención, es un
+estándar, es decir, o sea en</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/3339-1
+00:17:29.085 --> 00:17:31.395
+<v Full stack Full Time>javascript, se tiene hablado que
+se se hacen así.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/3354-0
+00:17:31.405 --> 00:17:34.615
+<v Full stack Full Time>¿La variables vale, no te
+podrías hacerlas de otra forma?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/3412-0
+00:17:34.625 --> 00:17:37.825
+<v Full stack Full Time>¿Sí, pero está bastante
+estandarizado, que sea de que no</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/3412-1
+00:17:37.825 --> 00:17:41.194
+<v Full stack Full Time>se puede poner los domingos son
+ningún caso por funcionar o</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/3412-2
+00:17:41.194 --> 00:17:44.506
+<v Full stack Full Time>funcionar, pero no es buena
+práctica, es decir, no se va a</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/3412-3
+00:17:44.506 --> 00:17:47.426
+<v Full stack Full Time>distinguir bien las bien las
+palabras y además está</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/3412-4
+00:17:47.426 --> 00:17:49.615
+<v Full stack Full Time>estandarizado que sea así,
+porque qué?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/3427-0
+00:17:49.755 --> 00:17:52.615
+<v Full stack Full Time>Pero funcionar, pero no, o sea,
+funciona te va a funcionar.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/3453-0
+00:17:52.675 --> 00:17:55.671
+<v Full stack Full Time>¿Funcionalidad, no de Sport por
+orden el código para que se</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/3453-1
+00:17:55.671 --> 00:17:58.517
+<v Full stack Full Time>entienda que son varias
+palabras, se ha establecido así,</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/3453-2
+00:17:58.517 --> 00:17:59.715
+<v Full stack Full Time>pero funcional Trujillo?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/3463-0
+00:18:01.285 --> 00:18:02.795
+<v Full stack Full Time>Pues cuídate con Susana.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/3483-0
+00:18:03.075 --> 00:18:06.272
+<v Full stack Full Time>Para eso se conocen las
+minúsculas, y tú lo podrías</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/3483-1
+00:18:06.272 --> 00:18:09.592
+<v Full stack Full Time>hacer todo en mayúsculas o en
+minúsculas, sí, pero no</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/3483-2
+00:18:09.592 --> 00:18:10.145
+<v Full stack Full Time>funciona.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/3494-0
+00:18:10.155 --> 00:18:11.585
+<v Full stack Full Time>Pero la buena práctica es
+hacerlo así.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/3504-0
+00:18:12.125 --> 00:18:15.035
+<v Full stack Full Time>¿Es un estándar, están tan
+estandarizados, vale?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/3507-0
+00:18:16.385 --> 00:18:17.985
+<v Full stack Full Time>Más dudas, bien.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/3511-0
+00:18:19.885 --> 00:18:22.225
+<v Full stack Full Time>O K, pues.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/3515-0
+00:18:24.275 --> 00:18:24.605
+<v Full stack Full Time>¿Eh?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/3532-0
+00:18:25.815 --> 00:18:29.495
+<v Full stack Full Time>¿Vamos a verlo, no vale con lo
+que veis decirme qué?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/3538-0
+00:18:29.505 --> 00:18:32.255
+<v Full stack Full Time>Con solo va a salir por
+pantalla.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/3551-0
+00:18:36.405 --> 00:18:37.645
+<v Full stack Full Time>El primero es mayor de edad.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/3584-0
+00:18:37.815 --> 00:18:44.825
+<v Full stack Full Time>¿El como así, *****, qué pasada,
+tú eres mi vale, espero o k sí</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/3584-1
+00:18:44.825 --> 00:18:51.615
+<v Full stack Full Time>decimos que el segundo sí no es
+verdad, pero les falta, vale?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/3597-0
+00:18:53.385 --> 00:18:57.865
+<v Full stack Full Time>¿Y ahora que con solo va a salir
+eres mayor de edad?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/3599-0
+00:18:57.975 --> 00:18:59.095
+<v Full stack Full Time>Sí, sí.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/3625-0
+00:19:01.375 --> 00:19:05.624
+<v Full stack Full Time>¿Estamos seguros, seguros, muy
+bien, vale decir, aunque por</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/3625-1
+00:19:05.624 --> 00:19:08.315
+<v Full stack Full Time>ejemplo son los bosses truth,
+verdad?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/3633-0
+00:19:08.325 --> 00:19:09.605
+<v Full stack Full Time>¿Esta condición se cumple, sí o
+no?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/3655-0
+00:19:10.505 --> 00:19:14.162
+<v Full stack Full Time>¿Ahora mismo se está cumpliendo,
+pero no le entra, por qué no</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/3655-1
+00:19:14.162 --> 00:19:16.345
+<v Full stack Full Time>entra aquí porque ya se ha
+activado?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/3679-0
+00:19:16.355 --> 00:19:20.489
+<v Full stack Full Time>Claro, porque una vez se activa
+la primera se queda ahí, ya no</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/3679-1
+00:19:20.489 --> 00:19:23.835
+<v Full stack Full Time>pasa, la siguiente, ya le vale
+con exacto Gil una.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/3690-0
+00:19:23.845 --> 00:19:25.615
+<v Full stack Full Time>Y asombra, eso es.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/3695-0
+00:19:26.005 --> 00:19:26.775
+<v Full stack Full Time>¿Y ahora qué?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/3698-0
+00:19:26.785 --> 00:19:27.605
+<v Full stack Full Time>Consuelo se va a mostrar.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/3712-0
+00:19:29.925 --> 00:19:32.195
+<v Full stack Full Time>Ah, no sé, fíjate lo eres menor
+de edad.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/3727-0
+00:19:34.725 --> 00:19:39.235
+<v Full stack Full Time>Ahora la segunda, aunque sí eres
+manera, pero eres el por qué.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/3753-0
+00:19:40.945 --> 00:19:45.012
+<v Full stack Full Time>Porque eres hijo del jefe es
+True y si no cumple la piel, la</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/3753-1
+00:19:45.012 --> 00:19:49.145
+<v Full stack Full Time>condición y la segunda porque
+dices que no cumple la primera.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/3763-0
+00:19:49.625 --> 00:19:53.395
+<v Full stack Full Time>¿Sí que, y por qué sigues?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/3781-0
+00:19:53.405 --> 00:19:57.315
+<v Full stack Full Time>Y 8 años y ahí en condición has
+puesto mayor a 18.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/3786-0
+00:19:59.015 --> 00:19:59.635
+<v Full stack Full Time>Muy bien, sí.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/3800-0
+00:19:59.645 --> 00:20:02.535
+<v Full stack Full Time>Entonces, como es mayor a 18, no
+mayor igual, sino mayor.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/3819-0
+00:20:02.575 --> 00:20:06.653
+<v Full stack Full Time>Esto no se cumple, entonces
+entrar tendrías que tener 192021</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/3819-1
+00:20:06.653 --> 00:20:07.255
+<v Full stack Full Time>etcétera.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/3846-0
+00:20:07.315 --> 00:20:13.387
+<v Full stack Full Time>Eso es vale, y si un yo la
+encuentro, día Pepa vale, pues</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/3846-1
+00:20:13.387 --> 00:20:17.575
+<v Full stack Full Time>ya no metas a la discoteca
+exactamente.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/3858-0
+00:20:18.285 --> 00:20:20.175
+<v Full stack Full Time>Ahora no se cumple, la primera
+no se cumpla.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/3864-0
+00:20:20.185 --> 00:20:22.045
+<v Full stack Full Time>Su casa, entonces menor de edad.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/3896-0
+00:20:22.055 --> 00:20:26.059
+<v Full stack Full Time>Tu casa, vete con mamá a tu casa
+te entiende esto, vale, me</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/3896-1
+00:20:26.059 --> 00:20:29.996
+<v Full stack Full Time>dejaste con el igual que si no
+luego, como cuando me dices</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/3896-2
+00:20:29.996 --> 00:20:32.465
+<v Full stack Full Time>apuntes, no me vas a quedarte
+locos.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/3901-0
+00:20:34.575 --> 00:20:36.795
+<v Full stack Full Time>Bien es muy importante.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/3917-0
+00:20:39.055 --> 00:20:43.199
+<v Full stack Full Time>¿Vale, ahora voy a enseñar otra
+forma de hacer condicionales,</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/3917-1
+00:20:43.199 --> 00:20:44.335
+<v Full stack Full Time>vale, qué ocurre?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/3937-0
+00:20:44.345 --> 00:20:47.851
+<v Full stack Full Time>Que muchas veces va va a pasar,
+que vosotros tengáis vais a</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/3937-1
+00:20:47.851 --> 00:20:49.545
+<v Full stack Full Time>empezar a tener muchos elsie.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/4011-0
+00:20:49.955 --> 00:20:53.515
+<v Full stack Full Time>¿Vale, entonces empiezas a tener
+el sí, muchos, el Sid queda como</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/4011-1
+00:20:53.515 --> 00:20:56.697
+<v Full stack Full Time>tanto si pantalla de tanto
+Ferrer queda un poco engorroso,</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/4011-2
+00:20:56.697 --> 00:21:00.095
+<v Full stack Full Time>sí, pero cuando yo tengo 5, El
+Cid la red lo que se recomienda</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/4011-3
+00:21:00.095 --> 00:21:03.547
+<v Full stack Full Time>es que, sobre todo condicionado,
+que es lo mismo que le vale lo</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/4011-4
+00:21:03.547 --> 00:21:06.945
+<v Full stack Full Time>mismo que acabamos de ver, pero
+está exceptuado de otra forma,</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/4011-5
+00:21:06.945 --> 00:21:07.215
+<v Full stack Full Time>vale?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/4028-0
+00:21:07.225 --> 00:21:11.045
+<v Full stack Full Time>Eso es él switch hashtag, vale
+texto en el switch.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/4033-0
+00:21:11.055 --> 00:21:13.215
+<v Full stack Full Time>¿Tú le pones, Eh?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/4050-0
+00:21:13.415 --> 00:21:17.386
+<v Full stack Full Time>¿Algo que se tiene que cumplir y
+luego en cada crisis, digamos,</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/4050-1
+00:21:17.386 --> 00:21:18.565
+<v Full stack Full Time>es cada país, vale?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/4097-0
+00:21:18.575 --> 00:21:22.183
+<v Full stack Full Time>Veis como que el orden yo aquí
+podría poner varios y estarían</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/4097-1
+00:21:22.183 --> 00:21:25.674
+<v Full stack Full Time>como más ordenados lo tanto,
+abrir llave y cerrar, sino que</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/4097-2
+00:21:25.674 --> 00:21:29.224
+<v Full stack Full Time>pongáis la condición 2 puntos y
+lo que quiero que se ejecute</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/4097-3
+00:21:29.224 --> 00:21:30.155
+<v Full stack Full Time>vale importante.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/4123-0
+00:21:31.725 --> 00:21:34.412
+<v Full stack Full Time>¿Por ejemplo, imagínate aquí, yo
+tengo, yo pongo que se tiene que</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/4123-1
+00:21:34.412 --> 00:21:36.692
+<v Full stack Full Time>cumplir, pues tú esto aquí
+puedes poner lo que quieras,</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/4123-2
+00:21:36.692 --> 00:21:36.895
+<v Full stack Full Time>vale?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/4143-0
+00:21:37.125 --> 00:21:42.035
+<v Full stack Full Time>Pero más que yo escribo en en
+aquí, o sea, vale el valor.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/4196-0
+00:21:42.045 --> 00:21:45.935
+<v Full stack Full Time>O sea, la finalidad de sucio es
+que el valor que yo pongo aquí</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/4196-1
+00:21:45.935 --> 00:21:49.825
+<v Full stack Full Time>tiene que ser el mismo que hay
+aquí, entonces, si yo he puesto</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/4196-2
+00:21:49.825 --> 00:21:53.653
+<v Full stack Full Time>que sea true para entrar en un
+caso que debería haber embargo</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/4196-3
+00:21:53.653 --> 00:21:57.666
+<v Full stack Full Time>tú, pero aquí lo que yo haría es
+con una condición, por ejemplo,</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/4196-4
+00:21:57.666 --> 00:21:59.765
+<v Full stack Full Time>imagínate que tengo LED edad,
+sí.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/4202-0
+00:22:01.425 --> 00:22:03.825
+<v Full stack Full Time>Iguala 8, pues aquí edad.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/4213-0
+00:22:05.745 --> 00:22:08.785
+<v Full stack Full Time>Supongo que edad es igual, igual
+7.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/4217-0
+00:22:09.695 --> 00:22:10.635
+<v Full stack Full Time>Iraquí.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/4235-0
+00:22:10.925 --> 00:22:14.635
+<v Full stack Full Time>¿Por eso es igual, a igual a 8,
+en cuál valdrá?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/4245-0
+00:22:14.645 --> 00:22:17.925
+<v Full stack Full Time>¿Sí, bueno, se entiende, vale?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/4284-0
+00:22:18.095 --> 00:22:22.121
+<v Full stack Full Time>¿Esto que veis vale 2 puntos, es
+para que luego vaya el código y</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/4284-1
+00:22:22.121 --> 00:22:26.085
+<v Full stack Full Time>luego veis este break es como el
+cerrar llaves es para que pare</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/4284-2
+00:22:26.085 --> 00:22:29.430
+<v Full stack Full Time>cuando si yo no le pongo el
+Brick, seguirá ejecutando</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/4284-3
+00:22:29.430 --> 00:22:30.235
+<v Full stack Full Time>código, vale?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/4302-0
+00:22:30.245 --> 00:22:34.304
+<v Full stack Full Time>Enrique es para cerrar, vale, y
+el default es el equivalente al</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/4302-1
+00:22:34.304 --> 00:22:34.685
+<v Full stack Full Time>Elche.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/4331-0
+00:22:35.535 --> 00:22:39.511
+<v Full stack Full Time>Es decir, si no se cumple
+ninguna de estas imaginado que</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/4331-1
+00:22:39.511 --> 00:22:43.765
+<v Full stack Full Time>va y vos aquí no, supongo que un
+9 no todo devolvería false.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/4346-0
+00:22:43.895 --> 00:22:48.155
+<v Full stack Full Time>¿Entonces, entraría aquí y allá
+estoy contigo, entiende?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/4386-0
+00:22:49.025 --> 00:22:51.814
+<v Full stack Full Time>Vale aquí puso la ejemplo del
+truco, porque es el más común</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/4386-1
+00:22:51.814 --> 00:22:54.650
+<v Full stack Full Time>porque al final usáis mucho en
+condicionales, pero imaginaos</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/4386-2
+00:22:54.650 --> 00:22:57.485
+<v Full stack Full Time>que yo en vez de poner un tru,
+lo que he puesto aquí es 110.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/4403-0
+00:23:00.045 --> 00:23:04.675
+<v Full stack Full Time>Es que por y por ejemplo, esto
+10 va a ser igual a esto INFO.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/4421-0
+00:23:05.695 --> 00:23:07.754
+<v Full stack Full Time>¿Nunca me va a dar ninguno de
+estos porque esto que son</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/4421-1
+00:23:07.754 --> 00:23:08.305
+<v Full stack Full Time>condiciones no?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/4427-0
+00:23:08.455 --> 00:23:09.565
+<v Full stack Full Time>Y las condiciones que devuelven.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/4435-0
+00:23:11.865 --> 00:23:13.945
+<v Full stack Full Time>¿Un booleano, una condición?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/4453-0
+00:23:13.955 --> 00:23:16.417
+<v Full stack Full Time>Nada, porque el otro, Full,
+nunca me Full número, entonces</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/4453-1
+00:23:16.417 --> 00:23:17.335
+<v Full stack Full Time>nunca se va a cumplir.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/4480-0
+00:23:17.535 --> 00:23:22.144
+<v Full stack Full Time>¿Si yo estoy probando con 110,
+aquí lo que debería haber es o 1</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/4480-1
+00:23:22.144 --> 00:23:25.745
+<v Full stack Full Time>3, 1, 7, 1 número para que pueda
+devolver, sabes?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/4489-0
+00:23:25.755 --> 00:23:28.265
+<v Full stack Full Time>Por lo menos aquí hay un día en
+40.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/4498-0
+00:23:30.455 --> 00:23:31.805
+<v Full stack Full Time>¿Carl, qué hizo Word?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/4515-0
+00:23:32.055 --> 00:23:34.796
+<v Full stack Full Time>Exacto, en el primero va a decir
+este valor tiene que coincidir</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/4515-1
+00:23:34.796 --> 00:23:35.995
+<v Full stack Full Time>con este para que se cumpla.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/4526-0
+00:23:37.095 --> 00:23:38.715
+<v Full stack Full Time>¿Es que es cambia un poquito,
+Eh?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/4551-0
+00:23:38.725 --> 00:23:41.810
+<v Full stack Full Time>Como como en los chips, o sea lo
+usas para lo mismo, pero acordar</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/4551-1
+00:23:41.810 --> 00:23:43.305
+<v Full stack Full Time>se tiene que lo que me devuelva.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/4561-0
+00:23:43.315 --> 00:23:45.075
+<v Full stack Full Time>Esto tiene que ser lo mismo que
+en la condición.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/4567-0
+00:23:46.725 --> 00:23:47.975
+<v Full stack Full Time>¿Sí, vamos a ver ejemplos, Eh?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/4571-0
+00:23:47.985 --> 00:23:50.185
+<v Full stack Full Time>No te preocupes mal.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/4612-0
+00:23:55.315 --> 00:24:00.080
+<v Full stack Full Time>Vale, vale, pero cuando has
+dicho lo de que si hay más de 5</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/4612-1
+00:24:00.080 --> 00:24:04.765
+<v Full stack Full Time>el sí, tenemos que hacer esto,
+si yo creo que recomiendo a</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/4612-2
+00:24:04.765 --> 00:24:08.815
+<v Full stack Full Time>partir de que tienes todo sexy
+te recomiendo esto.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/4618-0
+00:24:08.825 --> 00:24:09.705
+<v Full stack Full Time>Va a ser más.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/4621-0
+00:24:10.315 --> 00:24:10.975
+<v Full stack Full Time>Uy se ve mejor.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/4646-0
+00:24:10.985 --> 00:24:13.952
+<v Full stack Full Time>A ver, no tiene por qué podría
+hacerlo todo con el sí, pero</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/4646-1
+00:24:13.952 --> 00:24:16.325
+<v Full stack Full Time>este como que queda más o menos
+detrás, cuenta.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/4655-0
+00:24:16.695 --> 00:24:18.045
+<v Full stack Full Time>Oye, por cierto, se ha quedado
+aquí.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/4685-0
+00:24:20.025 --> 00:24:23.198
+<v Full stack Full Time>Traduce al resolver resuelves el
+ejercicio de algún sí, tú lo</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/4685-1
+00:24:23.198 --> 00:24:26.268
+<v Full stack Full Time>puedes hacer lo mismo si tú has
+hecho tu entiendes mejor el</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/4685-2
+00:24:26.268 --> 00:24:26.575
+<v Full stack Full Time>sitio.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/4696-0
+00:24:26.585 --> 00:24:29.335
+<v Full stack Full Time>¿No entiendo algo con el sí, a
+mí me parece mal, sabes?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/4700-0
+00:24:29.835 --> 00:24:31.005
+<v Full stack Full Time>Eso sí, si quieres.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/4733-0
+00:24:32.825 --> 00:24:36.228
+<v Full stack Full Time>Que pero la vida real, si tú te
+encuentras mejor con el gato,</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/4733-1
+00:24:36.228 --> 00:24:39.632
+<v Full stack Full Time>pues o sea el otro, o sea, se
+valen los dos halo mismo año es</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/4733-2
+00:24:39.632 --> 00:24:40.565
+<v Full stack Full Time>otro condicional.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/4740-0
+00:24:40.575 --> 00:24:42.145
+<v Full stack Full Time>Puede llegar al resultado.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/4746-0
+00:24:42.405 --> 00:24:44.335
+<v Full stack Full Time>Es esa, es la palabra.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/4762-0
+00:24:44.345 --> 00:24:48.190
+<v Full stack Full Time>¿Se puede llegar en un resultado
+con 1 que con la otra vale,</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/4762-1
+00:24:48.190 --> 00:24:48.505
+<v Full stack Full Time>vale?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/4773-0
+00:24:48.555 --> 00:24:50.805
+<v Full stack Full Time>Este de ahí nos acordé, yo lo
+había hecho en ejercicio.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/4779-0
+00:24:50.815 --> 00:24:52.315
+<v Full stack Full Time>¿Usaste New Day, The New Day?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/4800-0
+00:24:52.325 --> 00:24:56.617
+<v Full stack Full Time>Me daba la fecha de hoy en una
+función de javascript que me</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/4800-1
+00:24:56.617 --> 00:24:57.905
+<v Full stack Full Time>permitió sacar la.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/4806-0
+00:24:57.945 --> 00:24:58.635
+<v Full stack Full Time>Esto no es el final.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/4838-0
+00:24:58.645 --> 00:25:01.720
+<v Full stack Full Time>Los ejercicios de javascript, el
+otro día tenés que usarlo, si no</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/4838-1
+00:25:01.720 --> 00:25:04.516
+<v Full stack Full Time>por eso eso estaríamos sitio,
+porque no se acuerde, pues lo</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/4838-2
+00:25:04.516 --> 00:25:04.935
+<v Full stack Full Time>recuerdo.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/4860-0
+00:25:05.465 --> 00:25:09.697
+<v Full stack Full Time>El diente es una función que me
+da la fecha de hoy, vale, Ay,</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/4860-1
+00:25:09.697 --> 00:25:10.925
+<v Full stack Full Time>eso lo digo claro.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/4881-0
+00:25:10.935 --> 00:25:13.695
+<v Full stack Full Time>Yo hago New Day, me da todos los
+datos de la fecha de hoy es para</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/4881-1
+00:25:13.695 --> 00:25:14.155
+<v Full stack Full Time>el ejemplo.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/4916-0
+00:25:15.565 --> 00:25:18.594
+<v Full stack Full Time>¿Entonces aquí se ha puesto un
+algo diferente, vale de un</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/4916-1
+00:25:18.594 --> 00:25:22.041
+<v Full stack Full Time>ejemplo de despiste de crear una
+variable de actual y he guardado</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/4916-2
+00:25:22.041 --> 00:25:24.705
+<v Full stack Full Time>la fecha de hoy con el New date,
+vale el new date?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/4958-0
+00:25:24.715 --> 00:25:27.883
+<v Full stack Full Time>Hablo esta función, esto me da
+la fecha de hoy, pero me da todo</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/4958-1
+00:25:27.883 --> 00:25:30.952
+<v Full stack Full Time>lo de hoy hasta los segundos en
+los que estoy vale y luego he</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/4958-2
+00:25:30.952 --> 00:25:34.120
+<v Full stack Full Time>creado otra variable que lo que
+quiero que me guardes el día de</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/4958-3
+00:25:34.120 --> 00:25:34.615
+<v Full stack Full Time>la semana.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/4980-0
+00:25:34.955 --> 00:25:38.682
+<v Full stack Full Time>Qué es el día de la semana, por
+ejemplo, hoy lunes es el día 1</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/4980-1
+00:25:38.682 --> 00:25:39.865
+<v Full stack Full Time>de la semana vienes.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/5006-0
+00:25:39.875 --> 00:25:44.010
+<v Full stack Full Time>¿El día 5 se entiende para saber
+en qué día de la semana estoy,</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/5006-1
+00:25:44.010 --> 00:25:47.175
+<v Full stack Full Time>entonces si yo hago día actual,
+que es new date?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/5030-0
+00:25:47.345 --> 00:25:50.263
+<v Full stack Full Time>¿La fecha de hoy y le uso la
+función, que es una función que</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/5030-1
+00:25:50.263 --> 00:25:52.655
+<v Full stack Full Time>tiene que Data, me da el día que
+estoy hoy, vale?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/5044-0
+00:25:52.665 --> 00:25:54.895
+<v Full stack Full Time>Eso esto, pues no tienes que
+saberlo de memoria.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/5088-0
+00:25:55.255 --> 00:25:58.575
+<v Full stack Full Time>¿Yo no me las no me conozco
+todas las funciones de new date,</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/5088-1
+00:25:58.575 --> 00:26:01.895
+<v Full stack Full Time>ni de fly, nada, lo que yo hago
+es que cuando uso el New Day</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/5088-2
+00:26:01.895 --> 00:26:05.161
+<v Full stack Full Time>quiero hacer algo específico,
+voy a Google y busco vale new</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/5088-3
+00:26:05.161 --> 00:26:06.195
+<v Full stack Full Time>Day, sabes? Espera.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/5121-0
+00:26:08.695 --> 00:26:13.167
+<v Full stack Full Time>¿Oh, New Day, y aquí te sale el
+el vuelta este y aquí te dice</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/5121-1
+00:26:13.167 --> 00:26:15.835
+<v Full stack Full Time>todas las funciones y las cosas
+ves?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/5124-0
+00:26:15.935 --> 00:26:16.785
+<v Full stack Full Time>10 months ago.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/5189-0
+00:26:16.805 --> 00:26:19.693
+<v Full stack Full Time>Es yo no me siento de memoria,
+vengo aquí y uso la que yo</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/5189-1
+00:26:19.693 --> 00:26:22.879
+<v Full stack Full Time>quiero, vale, me dices si quiero
+sacar segundo, si quiero sacar</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/5189-2
+00:26:22.879 --> 00:26:25.767
+<v Full stack Full Time>en el mes en el que estoy, me
+explico, esto no, no puedes</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/5189-3
+00:26:25.767 --> 00:26:28.854
+<v Full stack Full Time>hablar de memoria, es tu vas y
+lo buscas, entonces yo en este</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/5189-4
+00:26:28.854 --> 00:26:30.945
+<v Full stack Full Time>caso he buscado para sacar el
+día de hoy.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/5195-0
+00:26:31.135 --> 00:26:34.615
+<v Full stack Full Time>¿No soy un estoy, es el día 1
+verdad entonces?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/5216-0
+00:26:37.055 --> 00:26:40.883
+<v Full stack Full Time>¿Como hoy es el ordenes de
+vosotros switch, qué va a poner</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/5216-1
+00:26:40.883 --> 00:26:42.505
+<v Full stack Full Time>aquí en día de la semana?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/5221-0
+00:26:45.235 --> 00:26:45.665
+<v Full stack Full Time>1.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/5223-0
+00:26:46.035 --> 00:26:47.105
+<v Full stack Full Time>¿Muy bien, no?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/5229-0
+00:26:47.115 --> 00:26:47.935
+<v Full stack Full Time>Sí es 1.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/5235-0
+00:26:48.865 --> 00:26:50.655
+<v Full stack Full Time>Ay, no he puesto el *****,
+perdón.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/5250-0
+00:26:52.435 --> 00:26:57.074
+<v Full stack Full Time>¿Como respetar, vale si he
+puesto 1 en cuál que iba a</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/5250-1
+00:26:57.074 --> 00:26:57.675
+<v Full stack Full Time>entrar?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/5258-0
+00:27:00.795 --> 00:27:01.985
+<v Full stack Full Time>Exacto, en el 1.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/5260-0
+00:27:01.995 --> 00:27:02.305
+<v Full stack Full Time>¿Por qué?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/5272-0
+00:27:02.315 --> 00:27:05.025
+<v Full stack Full Time>Porque 1 y 1 es lo mismo,
+coinciden.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/5277-0
+00:27:05.035 --> 00:27:05.845
+<v Full stack Full Time>1 = 1.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/5284-0
+00:27:05.855 --> 00:27:06.875
+<v Full stack Full Time>¿Vale, entonces entra aquí?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/5287-0
+00:27:07.055 --> 00:27:07.685
+<v Full stack Full Time>¿Se entiende?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/5292-0
+00:27:07.965 --> 00:27:09.865
+<v Full stack Full Time>Sí, vale, sí.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/5303-0
+00:27:09.875 --> 00:27:17.065
+<v Full stack Full Time>Imaginaos que ahora yo pongo que
+estamos en, en fin, en 40.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/5314-0
+00:27:19.175 --> 00:27:24.055
+<v Full stack Full Time>¿Qué vale, imaginas que yo la
+pongo?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/5323-0
+00:27:26.385 --> 00:27:28.505
+<v Full stack Full Time>¿Sí, qué me va a mostrar por
+consola?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/5329-0
+00:27:30.365 --> 00:27:33.805
+<v Full stack Full Time>Inés ahí de Foot no tiene.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/5340-0
+00:27:35.095 --> 00:27:38.335
+<v Full stack Full Time>Ese día persiste muy bien.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/5347-0
+00:27:38.635 --> 00:27:40.715
+<v Full stack Full Time>¿Yo no has escuchado antes punto
+positivo?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/5366-0
+00:27:40.855 --> 00:27:43.707
+<v Full stack Full Time>Te acuerdas lo que había dicho
+en el PRI, si no voy a abrir,</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/5366-1
+00:27:43.707 --> 00:27:44.735
+<v Full stack Full Time>seguía leyendo código.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/5373-0
+00:27:45.105 --> 00:27:47.295
+<v Full stack Full Time>¿Existe el hombre hasta el
+siguiente?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/5380-0
+00:27:47.305 --> 00:27:49.105
+<v Full stack Full Time>No, entonces, sí, hasta
+siguiente.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/5396-0
+00:27:49.115 --> 00:27:52.869
+<v Full stack Full Time>¿Brico, el siguiente Este
+entonces este fin de semana</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/5396-1
+00:27:52.869 --> 00:27:54.885
+<v Full stack Full Time>vale, vale, y si yo ya pongo?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/5425-0
+00:27:56.705 --> 00:28:01.513
+<v Full stack Full Time>Voy a venir si yo pongo esto
+donde entra y por esa vía no se</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/5425-1
+00:28:01.513 --> 00:28:04.035
+<v Full stack Full Time>cumple nada y ese día no existe.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/5438-0
+00:28:04.045 --> 00:28:07.565
+<v Full stack Full Time>El día 20 de la semana yo creo
+que no estoy aquí.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/5455-0
+00:28:07.575 --> 00:28:11.819
+<v Full stack Full Time>En suite se utiliza mucho o al
+final se utiliza mucho más el</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/5455-1
+00:28:11.819 --> 00:28:12.515
+<v Full stack Full Time>Leaf Abel.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/5488-0
+00:28:12.555 --> 00:28:15.490
+<v Full stack Full Time>¿Al final la practicidad es el
+que más uso es el Leaf, pero en</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/5488-1
+00:28:15.490 --> 00:28:18.471
+<v Full stack Full Time>riesgo habrá un momento que sí
+que somos un poquito switch para</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/5488-2
+00:28:18.471 --> 00:28:19.775
+<v Full stack Full Time>una cosa en concreto, sabes?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/5491-0
+00:28:21.315 --> 00:28:22.255
+<v Full stack Full Time>Bueno, sí.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/5517-0
+00:28:22.265 --> 00:28:26.540
+<v Full stack Full Time>Yo lo que más te gusta porque
+tengo una muchacha y si no,</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/5517-1
+00:28:26.540 --> 00:28:28.825
+<v Full stack Full Time>claro, y ya está, no pasa nada.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/5527-0
+00:28:28.835 --> 00:28:30.945
+<v Full stack Full Time>Cuando vosotros realmente os
+interese, lo manejaré bien.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/5576-0
+00:28:32.695 --> 00:28:36.978
+<v Full stack Full Time>El primer link que pones arriba,
+sí, actuar igual a Miley y luego</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/5576-1
+00:28:36.978 --> 00:28:41.262
+<v Full stack Full Time>pones bastante o sea, ese primer
+LED sí que que está haciendo ahí</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/5576-2
+00:28:41.262 --> 00:28:45.545
+<v Full stack Full Time>es guardo la fecha de hoy porque
+New Day me trae la fecha de hoy.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/5637-0
+00:28:45.555 --> 00:28:48.924
+<v Full stack Full Time>Si hoy estamos a 7 días, 7 si
+estamos a 14, día 14, me lo</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/5637-1
+00:28:48.924 --> 00:28:52.352
+<v Full stack Full Time>guardo, me lo guarda con todos
+los datos, me guardas a los</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/5637-2
+00:28:52.352 --> 00:28:55.605
+<v Full stack Full Time>segundos, me dice el mes año
+todo se guarda ahí como el</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/5637-3
+00:28:55.605 --> 00:28:59.380
+<v Full stack Full Time>encargado, siguiendo con Toledo,
+y lo vemos es la sentencia para</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/5637-4
+00:28:59.380 --> 00:28:59.845
+<v Full stack Full Time>tu mesa.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/5643-0
+00:28:59.855 --> 00:29:02.325
+<v Full stack Full Time>¿Es un poder ejecutar? ¿Igual?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/5658-0
+00:29:02.335 --> 00:29:04.875
+<v Full stack Full Time>No lo pensé y luego usa variable
+para sacar las funciones.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/5698-0
+00:29:04.925 --> 00:29:10.006
+<v Full stack Full Time>¿Dime, en ese caso, no
+podríamos, en vez de colocar</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/5698-1
+00:29:10.006 --> 00:29:15.673
+<v Full stack Full Time>casi 6 2 puntos K 7 podríamos
+colocar que es 6 o 7 que sí</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/5698-2
+00:29:15.673 --> 00:29:18.995
+<v Full stack Full Time>podéis hacerlo por sí en
+euskera?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/5713-0
+00:29:19.005 --> 00:29:22.985
+<v Full stack Full Time>No, mentira, no podías hacer
+loco porque si tú pones 6.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/5744-0
+00:29:25.335 --> 00:29:28.810
+<v Full stack Full Time>Bueno, habría que consolar, que
+devuelve, pero si pido porque si</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/5744-1
+00:29:28.810 --> 00:29:32.177
+<v Full stack Full Time>pongo 6 o 7 hay que ver si esto
+me devuelve, si me devuelve un</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/5744-2
+00:29:32.177 --> 00:29:32.605
+<v Full stack Full Time>triunfo.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/5753-0
+00:29:32.615 --> 00:29:33.755
+<v Full stack Full Time>Triunfo, lo mismo que eso.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/5763-0
+00:29:33.765 --> 00:29:36.535
+<v Full stack Full Time>Luego, ahora lo probamos, no sé
+exactamente si no le pongo nada.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/5793-0
+00:29:38.555 --> 00:29:42.263
+<v Full stack Full Time>¿Si no estamos igualando, vamos
+a mirar, vamos a lograr, vale,</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/5793-1
+00:29:42.263 --> 00:29:45.265
+<v Full stack Full Time>Daniel, voy a probar lo de
+Víctor, Qué va primero?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/5815-0
+00:29:45.455 --> 00:29:48.293
+<v Full stack Full Time>Espera que yo, si no se nos va a
+olvidar no, lo que sí acuérdate</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/5815-1
+00:29:48.293 --> 00:29:49.865
+<v Full stack Full Time>a 1 de la duda que luego se
+olvida.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/5817-0
+00:29:51.845 --> 00:29:52.095
+<v Full stack Full Time>¿Vale?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/5823-0
+00:29:54.115 --> 00:29:56.815
+<v Full stack Full Time>Vale primero, vamos a
+consolidar.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/5830-0
+00:29:59.025 --> 00:30:02.095
+<v Full stack Full Time>¿Hoy y el día cuatro, vale?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/5855-0
+00:30:05.465 --> 00:30:11.081
+<v Full stack Full Time>Mira, 4347 no es la esta vez
+fecha de hoy, hoy es lunes</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/5855-1
+00:30:11.081 --> 00:30:12.485
+<v Full stack Full Time>octubre 14000.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/5868-0
+00:30:12.555 --> 00:30:16.305
+<v Full stack Full Time>Me da toda la fecha, entiende
+entonces.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/5911-0
+00:30:16.315 --> 00:30:19.130
+<v Full stack Full Time>¿Yo igual a toda la fecha, ir o
+como el este de new de que estás</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/5911-1
+00:30:19.130 --> 00:30:21.814
+<v Full stack Full Time>está esa clase con la función
+tal bueno, es una clase, lo que</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/5911-2
+00:30:21.814 --> 00:30:24.196
+<v Full stack Full Time>pasa que no quiero emplear ese
+término porque no lo he</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/5911-3
+00:30:24.196 --> 00:30:25.495
+<v Full stack Full Time>explicado, lo explicaré, vale?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/5916-0
+00:30:26.565 --> 00:30:27.555
+<v Full stack Full Time>¿Eh?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/5935-0
+00:30:27.565 --> 00:30:31.835
+<v Full stack Full Time>Yo lo llamo y puedo sacar Getty
+me da el número de día Get me da</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/5935-1
+00:30:31.835 --> 00:30:32.755
+<v Full stack Full Time>el mes. ¿Vale?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/5970-0
+00:30:33.245 --> 00:30:36.546
+<v Full stack Full Time>Entonces, con esa función o
+punto, porque aunque no sepas</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/5970-1
+00:30:36.546 --> 00:30:40.017
+<v Full stack Full Time>esto de aquí, esto es una clase
+y es como si fuese un objeto</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/5970-2
+00:30:40.017 --> 00:30:40.415
+<v Full stack Full Time>Valdés.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/5994-0
+00:30:40.425 --> 00:30:43.955
+<v Full stack Full Time>Como es un objetivo, hace punto
+y sacar la función o una</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/5994-1
+00:30:43.955 --> 00:30:47.175
+<v Full stack Full Time>propiedad, se entiende entonces
+de ahí sacó el día.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/6048-0
+00:30:48.045 --> 00:30:51.499
+<v Full stack Full Time>De todas formas, no hace falta
+que lo seas en el mio, tu vas a</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/6048-1
+00:30:51.499 --> 00:30:55.008
+<v Full stack Full Time>la página con mucho yo y miras
+ahí, qué puedes hacer con eso ya</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/6048-2
+00:30:55.008 --> 00:30:58.352
+<v Full stack Full Time>tengo esto, no podrías hacerlo
+sin el LED, o sea solo con la</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/6048-3
+00:30:58.352 --> 00:31:00.435
+<v Full stack Full Time>constante debería de la semana
+igual.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/6136-0
+00:31:00.455 --> 00:31:04.314
+<v Full stack Full Time>¿A virtual punto 30 y Gabriel no
+porque digas nada, ni nada,</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/6136-1
+00:31:04.314 --> 00:31:08.427
+<v Full stack Full Time>boludo, lo guardas arriba todos
+los datos y lo voy a solo, coges</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/6136-2
+00:31:08.427 --> 00:31:12.286
+<v Full stack Full Time>el dinero, pero nada, que no
+está bien lo que quieres hacer,</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/6136-3
+00:31:12.286 --> 00:31:15.956
+<v Full stack Full Time>pero no entendido, no te
+escuchado bien, no ponen el LED,</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/6136-4
+00:31:15.956 --> 00:31:19.879
+<v Full stack Full Time>solo la constante, o sea, solo
+el cons, claro que sí, yo hago</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/6136-5
+00:31:19.879 --> 00:31:23.485
+<v Full stack Full Time>esto día actual es Anne Fine
+porque dónde está definido?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/6171-0
+00:31:23.495 --> 00:31:27.391
+<v Full stack Full Time>Es sería cual es decir, yo esto
+lo llamo 10 cual pero podría</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/6171-1
+00:31:27.391 --> 00:31:31.287
+<v Full stack Full Time>llamarlo Pepito, y aquí con el
+Pepito, entonces si tiene ese</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/6171-2
+00:31:31.287 --> 00:31:34.225
+<v Full stack Full Time>valor, porque yo le he guardado
+new date. In.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/6199-0
+00:31:37.665 --> 00:31:41.991
+<v Full stack Full Time>Entiende me cuesta, pero si no y
+luego en constante ya de la</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/6199-1
+00:31:41.991 --> 00:31:46.105
+<v Full stack Full Time>semana, es igual a pepi, a ese
+hay podría haberlo puesto.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/6204-0
+00:31:46.115 --> 00:31:48.455
+<v Full stack Full Time>Leer también se escribe, sí,
+pero bueno.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/6208-0
+00:31:50.425 --> 00:31:50.835
+<v Full stack Full Time>¿Qué?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/6228-0
+00:31:51.225 --> 00:31:55.714
+<v Full stack Full Time>Qué idioma un constante platica
+somos, y así es que no se puede</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/6228-1
+00:31:55.714 --> 00:31:56.415
+<v Full stack Full Time>modificar.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/6234-0
+00:31:56.425 --> 00:31:58.605
+<v Full stack Full Time>Claro, sí, sí, no vale.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/6266-0
+00:31:58.855 --> 00:32:01.725
+<v Full stack Full Time>Yo pensé que ya estaban llevando
+constante alegre, por eso mi</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/6266-1
+00:32:01.725 --> 00:32:04.363
+<v Full stack Full Time>pregunta porque estaban
+constante, pero era porque abajo</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/6266-2
+00:32:04.363 --> 00:32:05.705
+<v Full stack Full Time>había una constante variable.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/6298-0
+00:32:07.465 --> 00:32:12.498
+<v Full stack Full Time>Víctor resuelve esto pudo más o
+menos, pero eso si no lo ves es</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/6298-1
+00:32:12.498 --> 00:32:16.665
+<v Full stack Full Time>porque en De actual no estás
+metiendo toda la fecha.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/6304-0
+00:32:17.565 --> 00:32:18.215
+<v Full stack Full Time>Sí, sí, sí.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/6338-0
+00:32:18.225 --> 00:32:22.328
+<v Full stack Full Time>Veo que el día actual de la
+costumbre de presión en el pecho</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/6338-1
+00:32:22.328 --> 00:32:26.565
+<v Full stack Full Time>de la actual, no sé una igual,
+no estoy hablando un poco de lo</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/6338-2
+00:32:26.565 --> 00:32:27.775
+<v Full stack Full Time>importante de hoy.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/6356-0
+00:32:27.785 --> 00:32:31.739
+<v Full stack Full Time>Esto es un ejemplo para que
+entendáis el el o hacerlo bien,</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/6356-1
+00:32:31.739 --> 00:32:32.925
+<v Full stack Full Time>pues lo que hacen.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/6414-0
+00:32:34.525 --> 00:32:38.081
+<v Full stack Full Time>¿Bueno, pues simplemente cuando
+te vale, yo guardo aquí la fecha</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/6414-1
+00:32:38.081 --> 00:32:41.472
+<v Full stack Full Time>y ya tengo esta variable y con
+la fecha de hoy, yo puedo usar</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/6414-2
+00:32:41.472 --> 00:32:44.973
+<v Full stack Full Time>cositas de que me permite hacer
+esto del niño de él, no podrías</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/6414-3
+00:32:44.973 --> 00:32:48.255
+<v Full stack Full Time>poner en la en el Bochons en vez
+de lo de día de la semana?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/6425-0
+00:32:48.265 --> 00:32:51.975
+<v Full stack Full Time>Conste, igual haría actual junto
+a 20 com.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/6435-0
+00:32:53.625 --> 00:32:55.725
+<v Full stack Full Time>No deje, no es por algunos
+centros.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/6446-0
+00:33:00.625 --> 00:33:02.035
+<v Full stack Full Time>No consta en el Boletín.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/6457-0
+00:33:02.045 --> 00:33:04.195
+<v Full stack Full Time>Hombre, siempre tiene que tener
+un nombre, sino como la.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/6464-0
+00:33:05.735 --> 00:33:07.115
+<v Full stack Full Time>¿Ah, vale?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/6466-0
+00:33:07.125 --> 00:33:08.065
+<v Full stack Full Time>Ahora por el nombre.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/6485-0
+00:33:11.025 --> 00:33:16.059
+<v Full stack Full Time>Y normal, y luego lo permite
+para para hablar con los</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/6485-1
+00:33:16.059 --> 00:33:16.805
+<v Full stack Full Time>colores.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/6497-0
+00:33:17.385 --> 00:33:23.280
+<v Full stack Full Time>¿Vale muy bien que haces muy
+bien en preguntar hasta que lo</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/6497-1
+00:33:23.280 --> 00:33:25.835
+<v Full stack Full Time>entiendas, bien, vale, EH?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/6505-0
+00:33:25.845 --> 00:33:27.625
+<v Full stack Full Time>¿Ya me había preguntado algo, me
+lo recuerdas?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/6516-0
+00:33:27.845 --> 00:33:33.025
+<v Full stack Full Time>Sí, 37 en vez de colocar dos
+países.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/6535-0
+00:33:36.475 --> 00:33:40.339
+<v Full stack Full Time>¿No queda otra a ponerle que
+sea, vamos a dejar codeado,</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/6535-1
+00:33:40.339 --> 00:33:41.085
+<v Full stack Full Time>aquí, vale?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/6545-0
+00:33:41.095 --> 00:33:43.905
+<v Full stack Full Time>¿Vamos a poner que sea 7, por
+ejemplo no?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/6574-0
+00:33:44.895 --> 00:33:49.012
+<v Full stack Full Time>Pero como los 2 puntos ya es ese
+día, no existe, entra aquí</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/6574-1
+00:33:49.012 --> 00:33:52.991
+<v Full stack Full Time>porque yo creo que vuelve
+cubano, es mi sospecha, vamos a</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/6574-2
+00:33:52.991 --> 00:33:54.295
+<v Full stack Full Time>ponerlo en el blog.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/6583-0
+00:33:58.645 --> 00:34:00.605
+<v Full stack Full Time>¿Pero, pero el niño 65?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/6591-0
+00:34:00.675 --> 00:34:02.045
+<v Full stack Full Time>Hay que me tocaba esto también.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/6626-0
+00:34:04.215 --> 00:34:08.392
+<v Full stack Full Time>Ah, no se queda con el primero,
+los 6 o 7 no tienen que estar,</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/6626-1
+00:34:08.392 --> 00:34:12.569
+<v Full stack Full Time>no hay ninguna razón para que
+entre el 7 no es un condicional,</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/6626-2
+00:34:12.569 --> 00:34:13.365
+<v Full stack Full Time>es decir, 6.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/6640-0
+00:34:13.375 --> 00:34:16.525
+<v Full stack Full Time>Vale, pues se queda en 6,
+cumplió 6.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/6648-0
+00:34:16.875 --> 00:34:18.785
+<v Full stack Full Time>Claro, entonces nunca llega ya
+el 7.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/6686-0
+00:34:18.795 --> 00:34:21.676
+<v Full stack Full Time>No nos sirve, eso tiene que ser
+directamente malo porque él le 6</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/6686-1
+00:34:21.676 --> 00:34:24.469
+<v Full stack Full Time>al 6, existe otra cosa es que
+esto fuese un define, a lo mejor</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/6686-2
+00:34:24.469 --> 00:34:25.355
+<v Full stack Full Time>si fuese una define.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/6689-0
+00:34:27.735 --> 00:34:28.015
+<v Full stack Full Time>Veses.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/6696-0
+00:34:28.025 --> 00:34:28.505
+<v Full stack Full Time>Fin de semana.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/6710-0
+00:34:28.515 --> 00:34:31.875
+<v Full stack Full Time>¿Así que en cada día, porque
+esto no se cumple, no entiendes?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/6721-0
+00:34:33.205 --> 00:34:35.515
+<v Full stack Full Time>¿Está leyendo, pero esto ya es
+el Isabel rizo, Eh?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/6730-0
+00:34:37.445 --> 00:34:38.535
+<v Full stack Full Time>O sea, dejarlo como estaba.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/6752-0
+00:34:41.115 --> 00:34:46.983
+<v Full stack Full Time>¿Más dudas, yo he cortado antes
+sí donde defines las variables</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/6752-1
+00:34:46.983 --> 00:34:49.125
+<v Full stack Full Time>en tu día a día actual?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/6764-0
+00:34:51.545 --> 00:34:53.405
+<v Full stack Full Time>¿Alguna vez le das las divinas?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/6774-0
+00:34:53.415 --> 00:34:54.285
+<v Full stack Full Time>Ya no le cambias.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/6781-0
+00:34:54.295 --> 00:34:57.295
+<v Full stack Full Time>Entonces podría ser cons, sí
+podría hacer con.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/6793-0
+00:35:01.035 --> 00:35:02.465
+<v Full stack Full Time>Es más, lo voy a dejar como
+González.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/6800-0
+00:35:02.475 --> 00:35:04.365
+<v Full stack Full Time>¿Sí vas a aprendéis a usar más
+complejo?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/6820-0
+00:35:06.345 --> 00:35:09.384
+<v Full stack Full Time>Y ya está, claro, mientras
+hablar billetico y yo lo veo</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/6820-1
+00:35:09.384 --> 00:35:09.655
+<v Full stack Full Time>bien.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/6842-0
+00:35:10.605 --> 00:35:14.203
+<v Full stack Full Time>Más dudas a mí que me confunde
+un poco lo del ético porque no</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/6842-1
+00:35:14.203 --> 00:35:14.725
+<v Full stack Full Time>lo ponen.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/6924-0
+00:35:14.875 --> 00:35:18.042
+<v Full stack Full Time>No se podría poner directamente
+todo en LED por si acaso se</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/6924-1
+00:35:18.042 --> 00:35:21.368
+<v Full stack Full Time>tiene que modificar y ya está
+ya, pues en todo y cuando tengas</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/6924-2
+00:35:21.368 --> 00:35:24.535
+<v Full stack Full Time>modificar o sea, pero sí que te
+funcionaría, pero funcionar</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/6924-3
+00:35:24.535 --> 00:35:27.967
+<v Full stack Full Time>funciona mientras vemos igual yo
+voy a hacer bastante tolerante,</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/6924-4
+00:35:27.967 --> 00:35:31.134
+<v Full stack Full Time>la verdad es que si me hacéis
+con LED está bien, pues ya no</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/6924-5
+00:35:31.134 --> 00:35:34.143
+<v Full stack Full Time>pasa nada, es mejor que se
+acostumbre a usar con si solo</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/6924-6
+00:35:34.143 --> 00:35:37.416
+<v Full stack Full Time>les iba a cambiar el valor, pero
+si me hacéis, mientras no me</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/6924-7
+00:35:37.416 --> 00:35:38.155
+<v Full stack Full Time>pongáis, vale.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/6943-0
+00:35:38.165 --> 00:35:41.730
+<v Full stack Full Time>¿Eso sí que es pecado al que
+ponga vale algún ejercicio si lo</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/6943-1
+00:35:41.730 --> 00:35:42.535
+<v Full stack Full Time>pongo mal, eh?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/6963-0
+00:35:43.405 --> 00:35:48.555
+<v Full stack Full Time>Pero lo de conspire se hace, por
+lo que ocupa la variable memoria</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/6963-1
+00:35:48.555 --> 00:35:49.335
+<v Full stack Full Time>como Java.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/7008-0
+00:35:49.525 --> 00:35:52.585
+<v Full stack Full Time>No sé, es que no me acuerdo, que
+la cosa es que claro, no es lo</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/7008-1
+00:35:52.585 --> 00:35:55.406
+<v Full stack Full Time>mismo preparar una Arturo al
+ponerle, le estás permitiendo</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/7008-2
+00:35:55.406 --> 00:35:58.418
+<v Full stack Full Time>hacer más cosas en tu código,
+mucho más espacio que se esconde</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/7008-3
+00:35:58.418 --> 00:36:01.095
+<v Full stack Full Time>el estamento, lo que ocupa, pero
+es mucho menos seguro.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/7036-0
+00:36:01.105 --> 00:36:04.557
+<v Full stack Full Time>Tu código es mucho más
+vulnerable, porque si pongo un</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/7036-1
+00:36:04.557 --> 00:36:08.775
+<v Full stack Full Time>LED es más modificable que si le
+pongo o sea, ya no ya por el ya.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/7070-0
+00:36:08.785 --> 00:36:11.449
+<v Full stack Full Time>Cómo se dice la la consistencia
+de tu código no es mucho más</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/7070-1
+00:36:11.449 --> 00:36:14.157
+<v Full stack Full Time>recomendable y a lo mejor sí que
+puede ser que menos espacio,</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/7070-2
+00:36:14.157 --> 00:36:16.035
+<v Full stack Full Time>porque está pensado para que no
+se cambie.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/7081-0
+00:36:18.415 --> 00:36:19.275
+<v Full stack Full Time>Pero eso no lo se exacto.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/7091-0
+00:36:19.285 --> 00:36:21.145
+<v Full stack Full Time>Eso tendría que mirártelo, que
+ocupa 1, lo ocupado.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/7095-0
+00:36:23.085 --> 00:36:25.195
+<v Full stack Full Time>Más dudas, bien.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/7097-0
+00:36:27.055 --> 00:36:27.235
+<v Full stack Full Time>Va.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/7102-0
+00:36:29.265 --> 00:36:31.075
+<v Full stack Full Time>¿Eh?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/7140-0
+00:36:31.085 --> 00:36:35.959
+<v Full stack Full Time>¿Seguimos, operadores, hemos
+visto algunos qué operador hemos</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/7140-1
+00:36:35.959 --> 00:36:40.519
+<v Full stack Full Time>visto, pero que está, chicos,
+sí, aquí está como bien han</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/7140-2
+00:36:40.519 --> 00:36:44.135
+<v Full stack Full Time>pasado, hemos dicho así por
+encima y qué más?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/7145-0
+00:36:44.685 --> 00:36:45.555
+<v Full stack Full Time>¿El Óder?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/7161-0
+00:36:46.105 --> 00:36:51.037
+<v Full stack Full Time>Sí, sí, aunque esto ha sido un
+spoiler, también él, ha dicho</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/7161-1
+00:36:51.037 --> 00:36:51.765
+<v Full stack Full Time>Catalina.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/7170-0
+00:36:51.775 --> 00:36:55.425
+<v Full stack Full Time>¿También el mal, pero digo que
+qué hemos visto?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/7185-0
+00:36:55.435 --> 00:36:57.534
+<v Full stack Full Time>Que he visto en clase, o sea, el
+negativo, sí que también lo</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/7185-1
+00:36:57.534 --> 00:36:58.085
+<v Full stack Full Time>usamos, pero no.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/7194-0
+00:36:59.595 --> 00:37:01.545
+<v Full stack Full Time>Es lo mismo, un ejercicio muy
+bien.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/7229-0
+00:37:03.085 --> 00:37:06.585
+<v Full stack Full Time>O K, vale, igual te lo dejo a
+los iguales, el módulo vale esas</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/7229-1
+00:37:06.585 --> 00:37:09.974
+<v Full stack Full Time>cosas son operadores, ahora
+vamos a ver que hay un montón de</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/7229-2
+00:37:09.974 --> 00:37:10.585
+<v Full stack Full Time>operadores.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/7243-0
+00:37:10.675 --> 00:37:13.045
+<v Full stack Full Time>¿Vale, pues sí, pero para que
+ubiques operador, qué es? ¿Eso?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/7284-0
+00:37:13.275 --> 00:37:16.246
+<v Full stack Full Time>Vale que luego la gente a veces
+se pone a hablar muy técnico y</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/7284-1
+00:37:16.246 --> 00:37:19.264
+<v Full stack Full Time>sabemos lo que sabemos hacer, lo
+que nos piden, pero no sabemos</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/7284-2
+00:37:19.264 --> 00:37:22.187
+<v Full stack Full Time>otros términos, entonces cuando
+seamos un igual, igual, igual</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/7284-3
+00:37:22.187 --> 00:37:23.885
+<v Full stack Full Time>mayor, menor multiplicar dos
+cosas.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/7292-0
+00:37:24.035 --> 00:37:29.325
+<v Full stack Full Time>Operadores vale, operadores
+aritméticos matemática.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/7318-0
+00:37:29.335 --> 00:37:33.628
+<v Full stack Full Time>Y son eso vale, pues está el el,
+el más el menos este, que</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/7318-1
+00:37:33.628 --> 00:37:37.775
+<v Full stack Full Time>tuviste que investigarlo, este
+que hacía de multiplicar.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/7320-0
+00:37:37.785 --> 00:37:38.535
+<v Full stack Full Time>No, sí.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/7331-0
+00:37:38.825 --> 00:37:40.155
+<v Full stack Full Time>O sea, estoy de VIH.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/7346-0
+00:37:40.745 --> 00:37:46.805
+<v Full stack Full Time>El dividir el de El por sí
+exacto, ese es el el resto.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/7355-0
+00:37:47.285 --> 00:37:48.835
+<v Full stack Full Time>¿Recordáis el resto en las
+divisiones?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/7384-0
+00:37:49.645 --> 00:37:53.473
+<v Full stack Full Time>Ah, cuando entonces una división
+y lo que sobraba el rest, el</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/7384-1
+00:37:53.473 --> 00:37:57.425
+<v Full stack Full Time>resto vale, es para decirte si
+tiene resto o no tiene el resto.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/7399-0
+00:37:57.435 --> 00:37:58.765
+<v Full stack Full Time>Eso es todo, luego lo usaréis
+más.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/7416-0
+00:37:58.775 --> 00:38:03.835
+<v Full stack Full Time>Lo que creéis exponente este era
+para poner al este no lo usáis.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/7430-0
+00:38:04.335 --> 00:38:07.155
+<v Full stack Full Time>No usáis casi pero es cuando
+quieres multiplicar algo.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/7443-0
+00:38:07.165 --> 00:38:10.029
+<v Full stack Full Time>¿Por su mismo número, Sabes 7
+por 7, es como el cuadrado,</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/7443-1
+00:38:10.029 --> 00:38:10.325
+<v Full stack Full Time>Sabes?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/7452-0
+00:38:10.725 --> 00:38:11.525
+<v Full stack Full Time>Este no seréis tanto.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/7471-0
+00:38:11.535 --> 00:38:15.566
+<v Full stack Full Time>Me interesan más estos de aquí,
+si yo pongo más más lo que hace</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/7471-1
+00:38:15.566 --> 00:38:16.385
+<v Full stack Full Time>es sumarme 1.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/7508-0
+00:38:16.855 --> 00:38:20.839
+<v Full stack Full Time>Es decir, si yo pongo tengo la
+variable 7 y le espera el número</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/7508-1
+00:38:20.839 --> 00:38:24.698
+<v Full stack Full Time>igual a 7 y yo le hago un número
+más más, eso es un aún este,</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/7508-2
+00:38:24.698 --> 00:38:26.005
+<v Full stack Full Time>vamos a verlo. ¿Vale?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/7531-0
+00:38:26.235 --> 00:38:32.244
+<v Full stack Full Time>Creo que sería hoy, claro,
+estamos a poner aquí el es</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/7531-1
+00:38:32.244 --> 00:38:34.135
+<v Full stack Full Time>número igual a 7.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/7546-0
+00:38:34.145 --> 00:38:39.355
+<v Full stack Full Time>No le he puesto leche porque le
+he puesto LED porque el bien.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/7562-0
+00:38:40.125 --> 00:38:42.535
+<v Full stack Full Time>Pues le pongo el número más más
+y luego un control.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/7591-0
+00:38:42.545 --> 00:38:46.612
+<v Full stack Full Time>Lo Mestre o el consuelo que
+pongo el número y luego ya pongo</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/7591-1
+00:38:46.612 --> 00:38:50.345
+<v Full stack Full Time>la variable país porque hago
+esto para entenderlo bien.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/7621-0
+00:38:50.355 --> 00:38:52.822
+<v Full stack Full Time>Luego, leyéndolo claro, porque
+así se lo que hay en el consuelo</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/7621-1
+00:38:52.822 --> 00:38:55.173
+<v Full stack Full Time>es que yo ya tengo un montón de
+consolas, soy de todo lo que</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/7621-2
+00:38:55.173 --> 00:38:55.635
+<v Full stack Full Time>hemos hecho.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/7648-0
+00:38:55.645 --> 00:38:57.973
+<v Full stack Full Time>Pues para saber rápido que es el
+consuelo le pongo el Time</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/7648-1
+00:38:57.973 --> 00:39:00.065
+<v Full stack Full Time>mayúsculas el nombre de lo que
+es para no aburrirme.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/7653-0
+00:39:00.235 --> 00:39:01.005
+<v Full stack Full Time>Y luego ya coma.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/7674-0
+00:39:01.015 --> 00:39:04.536
+<v Full stack Full Time>Y lo que quiero que vean,
+entonces vamos a ver, aquí veis</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/7674-1
+00:39:04.536 --> 00:39:05.265
+<v Full stack Full Time>y números 8.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/7689-0
+00:39:05.275 --> 00:39:08.171
+<v Full stack Full Time>Me sumo algo, no se entiende que
+esto para bucles luego lo</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/7689-1
+00:39:08.171 --> 00:39:09.055
+<v Full stack Full Time>necesitamos saber.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/7700-0
+00:39:10.255 --> 00:39:12.265
+<v Full stack Full Time>Vale lo mismo, se puede hacer
+menos menos.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/7707-0
+00:39:13.445 --> 00:39:14.385
+<v Full stack Full Time>¿Cuál es me resta 1?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/7714-0
+00:39:16.135 --> 00:39:19.125
+<v Full stack Full Time>Sí, vale, este es el operadores
+aritméticos.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/7745-0
+00:39:22.675 --> 00:39:26.679
+<v Full stack Full Time>Para EH, aquí tenemos 1 de un
+ejemplo de una suba en plan</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/7745-1
+00:39:26.679 --> 00:39:30.475
+<v Full stack Full Time>tenemos dos variables, y si las
+sumamos o la restamos.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/7755-0
+00:39:32.985 --> 00:39:35.265
+<v Full stack Full Time>¿O K de asignación vale?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/7798-0
+00:39:35.465 --> 00:39:39.623
+<v Full stack Full Time>Hemos visto el igual no decir,
+yo tengo una variable XY hago</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/7798-1
+00:39:39.623 --> 00:39:43.644
+<v Full stack Full Time>esta variable, tiene igual a
+este valor le asigna un valor</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/7798-2
+00:39:43.644 --> 00:39:47.802
+<v Full stack Full Time>hasta aquí bien, no veis todos
+estos de aquí más igual no sé</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/7798-3
+00:39:47.802 --> 00:39:49.165
+<v Full stack Full Time>qué bueno vamos a a.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/7818-0
+00:39:49.175 --> 00:39:51.360
+<v Full stack Full Time>¿Voy a explicaros todo porque
+nosotros ya sabes lo que es el</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/7818-1
+00:39:51.360 --> 00:39:52.865
+<v Full stack Full Time>más, el menos, el foro
+individuo, verdad?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/7840-0
+00:39:53.175 --> 00:39:56.024
+<v Full stack Full Time>Pero lo que no sabéis es que
+hace esto detrás del igual, eso</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/7840-1
+00:39:56.024 --> 00:39:56.865
+<v Full stack Full Time>no lo hemos visto.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/7844-0
+00:39:57.195 --> 00:39:59.575
+<v Full stack Full Time>¿Sí, entonces, qué imaginas?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/7858-0
+00:40:00.495 --> 00:40:02.445
+<v Full stack Full Time>Sí, yo tengo mi valía, mi
+variable número no.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/7870-0
+00:40:04.435 --> 00:40:08.946
+<v Full stack Full Time>Y yo quiero hacer qué crear una
+variable, no quiero que hacer</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/7870-1
+00:40:08.946 --> 00:40:09.455
+<v Full stack Full Time>número.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/7900-0
+00:40:11.975 --> 00:40:17.438
+<v Full stack Full Time>Perdón, quiero que el número sea
+igual a número, Martín sí es sí,</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/7900-1
+00:40:17.438 --> 00:40:22.570
+<v Full stack Full Time>yo quiero que el número en esta
+variable de aquí que la estoy</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/7900-2
+00:40:22.570 --> 00:40:23.315
+<v Full stack Full Time>llamando.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/7916-0
+00:40:23.405 --> 00:40:29.355
+<v Full stack Full Time>Tu, o sea, igual a el mismo
+número que 7, no más tiempo.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/7926-0
+00:40:29.395 --> 00:40:31.465
+<v Full stack Full Time>O sea, no sé, exacto, bueno.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/7955-0
+00:40:31.475 --> 00:40:35.640
+<v Full stack Full Time>Ahora como está, esto por el
+medio que será, voy a poner el</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/7955-1
+00:40:35.640 --> 00:40:40.222
+<v Full stack Full Time>perro, necesitas un menos, menos
+exacto, porque primero lo Quito,</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/7955-2
+00:40:40.222 --> 00:40:41.055
+<v Full stack Full Time>se entiende.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/7975-0
+00:40:41.395 --> 00:40:45.798
+<v Full stack Full Time>Vale, esto lo entendemos,
+quedaron, pero porque le meten</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/7975-1
+00:40:45.798 --> 00:40:46.725
+<v Full stack Full Time>menos menos.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/7987-0
+00:40:46.735 --> 00:40:48.865
+<v Full stack Full Time>No podría ser 1 solo y será
+menos complicado.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/7996-0
+00:40:48.875 --> 00:40:50.525
+<v Full stack Full Time>No podía saber con 1, pero
+escribirías más.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/8025-0
+00:40:50.535 --> 00:40:54.140
+<v Full stack Full Time>Es simplemente para abreviar,
+pero podrías hacer con 1, es</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/8025-1
+00:40:54.140 --> 00:40:57.745
+<v Full stack Full Time>decir, tú puedes hacer aquí
+número igual a número menos 1.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/8034-0
+00:40:57.925 --> 00:41:00.925
+<v Full stack Full Time>Esto es lo mismo que antes,
+percibirás más.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/8051-0
+00:41:00.935 --> 00:41:05.405
+<v Full stack Full Time>Entonces se invento esto y es
+más corto, menos menos.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/8063-0
+00:41:05.445 --> 00:41:10.155
+<v Full stack Full Time>O es más más sí que es un poco
+confuso, menos 1, bueno.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/8068-0
+00:41:12.785 --> 00:41:13.965
+<v Full stack Full Time>¿Otra cosa, sabes?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/8085-0
+00:41:13.975 --> 00:41:17.745
+<v Full stack Full Time>Porque al final tú llamas a
+variable y así no es un valor.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/8102-0
+00:41:17.755 --> 00:41:21.289
+<v Full stack Full Time>¿Tu no puedes hacer esto
+directamente porque yo no estoy</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/8102-1
+00:41:21.289 --> 00:41:23.025
+<v Full stack Full Time>asignando nada, en sabes no?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/8108-0
+00:41:23.035 --> 00:41:24.445
+<v Full stack Full Time>¿Pero, es qué hace todo eso?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/8115-0
+00:41:24.455 --> 00:41:25.715
+<v Full stack Full Time>Lo que es el símbolo.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/8129-0
+00:41:26.765 --> 00:41:28.975
+<v Full stack Full Time>Oh, sí, podían haberlo hecho de
+otra forma verbal.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/8154-0
+00:41:28.985 --> 00:41:32.843
+<v Full stack Full Time>Me tienen así, yo me imagino que
+yo hablando de esto es lo que no</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/8154-1
+00:41:32.843 --> 00:41:35.415
+<v Full stack Full Time>será fácil, pero al principio
+dices, tú sí.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/8203-0
+00:41:37.025 --> 00:41:41.970
+<v Full stack Full Time>Mismo no te iguales, entonces no
+voy a hacer, se entiende este</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/8203-1
+00:41:41.970 --> 00:41:47.073
+<v Full stack Full Time>vale que lo mismo esto, que esto
+vale y aquí estamos haciendo en</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/8203-2
+00:41:47.073 --> 00:41:51.940
+<v Full stack Full Time>una semana número es igual al
+número más 5, entonces ahora es</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/8203-3
+00:41:51.940 --> 00:41:52.175
+<v Full stack Full Time>12.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/8223-0
+00:41:52.185 --> 00:41:55.116
+<v Full stack Full Time>Quita lo de menos, se entiende
+varias veces que estoy</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/8223-1
+00:41:55.116 --> 00:41:56.745
+<v Full stack Full Time>repitiendo el número y número.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/8289-0
+00:41:58.965 --> 00:42:03.307
+<v Full stack Full Time>¿Sí pues, muchas veces para no
+tener que escribir, estos</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/8289-1
+00:42:03.307 --> 00:42:08.183
+<v Full stack Full Time>inventó una forma de abreviar,
+lo que es poner número más igual</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/8289-2
+00:42:08.183 --> 00:42:13.058
+<v Full stack Full Time>5, y esto es lo mismo, que esto
+es lo que en vez de repetir dos</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/8289-3
+00:42:13.058 --> 00:42:17.172
+<v Full stack Full Time>veces la misma palabra, se
+simplifica de esta forma y</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/8289-4
+00:42:17.172 --> 00:42:20.905
+<v Full stack Full Time>fijaos que me da lo mismo, se
+entiende, yo me 1?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/8296-0
+00:42:22.445 --> 00:42:24.025
+<v Full stack Full Time>¿Sí la que entendés, entendés?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/8317-0
+00:42:24.035 --> 00:42:26.276
+<v Full stack Full Time>Mejor está por seguir usando
+esta, pero que sepáis que esta</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/8317-1
+00:42:26.276 --> 00:42:27.285
+<v Full stack Full Time>es la versión simplificada.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/8353-0
+00:42:28.455 --> 00:42:32.582
+<v Full stack Full Time>¿Yo veo muchas veces como lo del
+dólar para cocaína ya me está</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/8353-1
+00:42:32.582 --> 00:42:36.119
+<v Full stack Full Time>hablando con los acordáis de
+concatenar que estaba en</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/8353-2
+00:42:36.119 --> 00:42:37.495
+<v Full stack Full Time>Concatenar el templo?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/8357-0
+00:42:37.505 --> 00:42:37.975
+<v Full stack Full Time>Y literal.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/8369-0
+00:42:38.395 --> 00:42:41.795
+<v Full stack Full Time>Pero lo que en lo mismo o lo
+mismo, vale.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/8380-0
+00:42:41.805 --> 00:42:43.815
+<v Full stack Full Time>¿Es verdad que esta vez no es
+más moderna y más moderna?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/8418-0
+00:42:45.985 --> 00:42:49.868
+<v Full stack Full Time>Pero ya cuando sepa, cuando tú
+ya sepas mucho ya tengo que usas</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/8418-1
+00:42:49.868 --> 00:42:53.690
+<v Full stack Full Time>esto, pero la principio, así que
+no tenemos ni idea, pues o 1.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/8418-2
+00:42:53.690 --> 00:42:54.115
+<v Full stack Full Time>Código.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/8431-0
+00:42:54.125 --> 00:42:57.768
+<v Full stack Full Time>Esto pues que sepas, Ah, vale,
+es porque estás simplificando,</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/8431-1
+00:42:57.768 --> 00:42:58.825
+<v Full stack Full Time>vale, se entiende.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/8441-0
+00:43:01.835 --> 00:43:03.855
+<v Full stack Full Time>Pues estos son los operadores de
+asignación.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/8479-0
+00:43:06.055 --> 00:43:10.124
+<v Full stack Full Time>Vale, pues aquí se puesto
+urgente, sí, y es el del resto y</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/8479-1
+00:43:10.124 --> 00:43:14.538
+<v Full stack Full Time>todo eso que decir no, no voy a
+decir es hacerlo en vez de, por</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/8479-2
+00:43:14.538 --> 00:43:16.745
+<v Full stack Full Time>ejemplo, yo que sé, el resto no.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/8495-0
+00:43:16.835 --> 00:43:22.945
+<v Full stack Full Time>Pues en vez de normalmente yo,
+allá el número número el resto.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/8519-0
+00:43:25.615 --> 00:43:31.043
+<v Full stack Full Time>¿Yo que sé el resto de dividir 7
+entre 2 me va a dar resto a</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/8519-1
+00:43:31.043 --> 00:43:34.335
+<v Full stack Full Time>reír, la voy a quitar sin pan,
+vale?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/8543-0
+00:43:36.885 --> 00:43:39.411
+<v Full stack Full Time>Ok, me dices si hay resto, unos,
+que hay resto, dos es que no</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/8543-1
+00:43:39.411 --> 00:43:40.185
+<v Full stack Full Time>hay, vamos a poner.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/8577-0
+00:43:42.445 --> 00:43:45.376
+<v Full stack Full Time>Me diré que un médico lo que
+estás haciendo con ese estímulo</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/8577-1
+00:43:45.376 --> 00:43:48.403
+<v Full stack Full Time>de escribir y luego que tener el
+resto, pero me devuelves y el</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/8577-2
+00:43:48.403 --> 00:43:48.835
+<v Full stack Full Time>resto no.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/8582-0
+00:43:48.845 --> 00:43:49.515
+<v Full stack Full Time>Sí, cero.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/8590-0
+00:43:49.525 --> 00:43:51.215
+<v Full stack Full Time>Es que no he visto unos que hay.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/8605-0
+00:43:53.015 --> 00:43:55.315
+<v Full stack Full Time>Internamente, sí, pero tú no
+tienes el resultado si quiero.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/8608-0
+00:43:55.325 --> 00:43:56.335
+<v Full stack Full Time>La división ya había esto.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/8623-0
+00:43:59.555 --> 00:44:02.035
+<v Full stack Full Time>¿Vale, y esto lo que pasa que tu
+no?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/8636-0
+00:44:02.075 --> 00:44:05.955
+<v Full stack Full Time>¿Esto en lo que estoy explicando
+es es, se podría hacer así?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/8646-0
+00:44:08.435 --> 00:44:11.415
+<v Full stack Full Time>¿Y esto es lo mismo que estoy
+aquí, vale?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/8652-0
+00:44:13.555 --> 00:44:15.605
+<v Full stack Full Time>Simplemente que la versión
+simplificada.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/8674-0
+00:44:17.765 --> 00:44:24.969
+<v Full stack Full Time>Vale más dudas, bien por eso
+tiene un valor de cero y tu de 1</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/8674-1
+00:44:24.969 --> 00:44:26.015
+<v Full stack Full Time>muy bien.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/8676-0
+00:44:27.635 --> 00:44:28.235
+<v Full stack Full Time>Exacto.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/8689-0
+00:44:28.535 --> 00:44:31.145
+<v Full stack Full Time>Luego me ha dado, lo sé, guardan
+así, o sea, muy bien.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/8735-0
+00:44:33.235 --> 00:44:37.804
+<v Full stack Full Time>Operadores de comparación que
+esto hemos visto casi todo, que</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/8735-1
+00:44:37.804 --> 00:44:42.300
+<v Full stack Full Time>nos falta el excavaciones vale,
+pero está el menor no menor,</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/8735-2
+00:44:42.300 --> 00:44:46.427
+<v Full stack Full Time>igual, igual, igual que
+diferencia hay entre este igual</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/8735-3
+00:44:46.427 --> 00:44:48.785
+<v Full stack Full Time>igual y este 3 iguales muy bien.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/8739-0
+00:44:48.855 --> 00:44:49.205
+<v Full stack Full Time>1.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/8768-0
+00:44:49.215 --> 00:44:52.833
+<v Full stack Full Time>Comparte comparte también el
+tipo, si pongo solo dos iguales</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/8768-1
+00:44:52.833 --> 00:44:56.629
+<v Full stack Full Time>y perdón si pongo dos iguales,
+no compara el tipo, se entiende,</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/8768-2
+00:44:56.629 --> 00:44:56.925
+<v Full stack Full Time>vale.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/8792-0
+00:44:57.235 --> 00:45:00.265
+<v Full stack Full Time>¿Y ahora todos estos les mayor
+ven, al igual nos hemos visto,</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/8792-1
+00:45:00.265 --> 00:45:02.415
+<v Full stack Full Time>pero no hemos visto de
+Exclamación, verdad?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/8804-0
+00:45:03.345 --> 00:45:07.525
+<v Full stack Full Time>Que esta página, que no sea
+igual, vamos a coger mi.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/8806-0
+00:45:09.305 --> 00:45:09.575
+<v Full stack Full Time>Este.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/8814-0
+00:45:13.265 --> 00:45:16.715
+<v Full stack Full Time>Cambio allá otra vez en algún
+punto.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/8837-0
+00:45:18.805 --> 00:45:22.411
+<v Full stack Full Time>¿Vuelva a ser esto, vale que si
+no tengo que subir hasta arriba,</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/8837-1
+00:45:22.411 --> 00:45:24.075
+<v Full stack Full Time>vamos a modificar la variable?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/8841-0
+00:45:25.205 --> 00:45:28.335
+<v Full stack Full Time>¿Vale, entonces Eh?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/8850-0
+00:45:28.345 --> 00:45:30.155
+<v Full stack Full Time>¿He is dos es menor, igual a 17?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/8876-0
+00:45:31.615 --> 00:45:41.199
+<v Full stack Full Time>¿Sí, sí, no vale, es muy, es
+dos, no es igual a 17, muy bien</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/8876-1
+00:45:41.199 --> 00:45:44.655
+<v Full stack Full Time>porque esto es 117 no?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/8919-0
+00:45:45.145 --> 00:45:48.459
+<v Full stack Full Time>¿Si le pongo la exclamación
+estoy diciendo, esto no es igual</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/8919-1
+00:45:48.459 --> 00:45:51.773
+<v Full stack Full Time>a 17 es como les imagino que
+quizá el 17 vale, y yo le estoy</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/8919-2
+00:45:51.773 --> 00:45:54.815
+<v Full stack Full Time>diciendo 17 no es igual a 17,
+esto es verdad o mentira?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/8946-0
+00:45:55.485 --> 00:46:01.488
+<v Full stack Full Time>¿Mentira, vale, y si yo le pongo
+1818 no es igual a decir si es</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/8946-1
+00:46:01.488 --> 00:46:04.395
+<v Full stack Full Time>tu padre y si yo le pongo esto?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/8958-0
+00:46:06.825 --> 00:46:09.055
+<v Full stack Full Time>Eh, y eso no es igual igual a
+17.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/8964-0
+00:46:10.705 --> 00:46:13.015
+<v Full stack Full Time>Pasó no.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/8971-0
+00:46:13.015 --> 00:46:16.195
+<v Full stack Full Time>18 no es igual igual a 17 Holi.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/8975-0
+00:46:18.005 --> 00:46:18.565
+<v Full stack Full Time>18.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/8991-0
+00:46:18.575 --> 00:46:21.445
+<v Full stack Full Time>No, no estoy seguro 7 porque va
+a cambiar.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/9002-0
+00:46:22.405 --> 00:46:25.245
+<v Full stack Full Time>No convenció esa, pero igual la
+decisiones.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/9020-0
+00:46:25.495 --> 00:46:32.760
+<v Full stack Full Time>Entonces pasó, o sea, 18, no es
+igual a 17 porque si le pones</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/9020-1
+00:46:32.760 --> 00:46:35.455
+<v Full stack Full Time>una igual cambiaría 18.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/9045-0
+00:46:35.465 --> 00:46:43.495
+<v Full stack Full Time>No es igual a 17, no 18, no es
+igual a 1711, pues no espera.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/9057-0
+00:46:43.505 --> 00:46:45.195
+<v Full stack Full Time>Voy a poner con un número más
+fácil.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/9071-0
+00:46:46.375 --> 00:46:49.445
+<v Full stack Full Time>Ah, es que el decir no es igual
+de bella.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/9075-0
+00:46:49.485 --> 00:46:50.205
+<v Full stack Full Time>Confundes.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/9105-0
+00:46:50.215 --> 00:46:54.436
+<v Full stack Full Time>Es por eso que es que lo que
+pone claro, pero sería más fácil</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/9105-1
+00:46:54.436 --> 00:46:57.635
+<v Full stack Full Time>decir 18 = 17, estoy explicando
+este operador.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/9120-0
+00:47:00.245 --> 00:47:04.025
+<v Full stack Full Time>Confunde mucho esa forma de
+decirlo, pero no, no.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/9139-0
+00:47:04.035 --> 00:47:08.999
+<v Full stack Full Time>Como lo digo, es lo que pone ya,
+ya ya, pero claro, el 3 no es</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/9139-1
+00:47:08.999 --> 00:47:09.945
+<v Full stack Full Time>igual a dos.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/9148-0
+00:47:12.385 --> 00:47:13.885
+<v Full stack Full Time>¿Truth, por qué crees?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/9161-0
+00:47:13.895 --> 00:47:17.425
+<v Full stack Full Time>No es igual, exacto, pero
+volvería tu vale y.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/9170-0
+00:47:20.385 --> 00:47:22.285
+<v Full stack Full Time>3 no es igual igual a 3.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/9182-0
+00:47:22.335 --> 00:47:24.825
+<v Full stack Full Time>Full muy bien porque sí que son
+iguales.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/9187-0
+00:47:24.835 --> 00:47:26.225
+<v Full stack Full Time>Entonces, no, no es mentira.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/9194-0
+00:47:26.235 --> 00:47:28.185
+<v Full stack Full Time>¿No es que no sean iguales,
+verdad?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/9202-0
+00:47:28.835 --> 00:47:29.895
+<v Full stack Full Time>¿Y si yo le pongo esto?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/9212-0
+00:47:32.215 --> 00:47:35.965
+<v Full stack Full Time>Devuelve, Ah, para que son
+iguales.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/9230-0
+00:47:37.115 --> 00:47:42.115
+<v Full stack Full Time>A ver, True True, no ketchup muy
+bien, True es True. ¿Por qué?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/9255-0
+00:47:42.245 --> 00:47:45.561
+<v Full stack Full Time>Porque no son iguales, porque le
+he puesto dos iguales de su</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/9255-1
+00:47:45.561 --> 00:47:46.485
+<v Full stack Full Time>estuvieran los 3.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/9276-0
+00:47:46.795 --> 00:47:50.874
+<v Full stack Full Time>¿Claro, entonces estoy también
+mirando el tipo de dato y el</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/9276-1
+00:47:50.874 --> 00:47:52.845
+<v Full stack Full Time>nombre es igual a string, no?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/9294-0
+00:47:53.175 --> 00:47:55.174
+<v Full stack Full Time>Entonces ya no es igual,
+entonces este sí que devolvería</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/9294-1
+00:47:55.174 --> 00:47:55.805
+<v Full stack Full Time>a Trump. ¿Perdona?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/9298-0
+00:47:55.815 --> 00:47:56.505
+<v Full stack Full Time>Ha puesto el tercero.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/9313-0
+00:47:59.165 --> 00:48:02.525
+<v Full stack Full Time>¿Que no está el tercero, por eso
+no has comido, ya?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/9326-0
+00:48:03.125 --> 00:48:06.935
+<v Full stack Full Time>Se entiende es que ese no lleva
+trasero.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/9344-0
+00:48:08.615 --> 00:48:15.521
+<v Full stack Full Time>El pregunta es para las llaves,
+no, no es porque el el otro es</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/9344-1
+00:48:15.521 --> 00:48:17.385
+<v Full stack Full Time>solo exclamación.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/9350-0
+00:48:17.395 --> 00:48:19.825
+<v Full stack Full Time>Igual no, claro, claro.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/9363-0
+00:48:19.835 --> 00:48:22.325
+<v Full stack Full Time>Cuando solo le pongo esto, no
+comparo el tipo de datos.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/9382-0
+00:48:22.335 --> 00:48:27.627
+<v Full stack Full Time>Esto por ejemplo, te volvería
+false porque 3 no es igual a</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/9382-1
+00:48:27.627 --> 00:48:28.165
+<v Full stack Full Time>antes.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/9405-0
+00:48:28.175 --> 00:48:30.835
+<v Full stack Full Time>Entendería que el estrés y 3,
+pero como yo, lo que estoy</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/9405-1
+00:48:30.835 --> 00:48:32.095
+<v Full stack Full Time>buscando es que no sé cuál.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/9416-0
+00:48:32.105 --> 00:48:35.105
+<v Full stack Full Time>Esto me devolvería un call, pues
+ya sé.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/9445-0
+00:48:35.115 --> 00:48:38.497
+<v Full stack Full Time>Con dos sí que compra tipo en
+este sí, pero porque este</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/9445-1
+00:48:38.497 --> 00:48:41.335
+<v Full stack Full Time>exclamación es como si fuese un
+igual en el 8.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/9450-0
+00:48:41.345 --> 00:48:42.165
+<v Full stack Full Time>Contraseña 3.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/9456-0
+00:48:42.175 --> 00:48:43.855
+<v Full stack Full Time>Vale, por eso es así.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/9480-0
+00:48:43.895 --> 00:48:48.583
+<v Full stack Full Time>¿Esto no existe vez, ya me lo
+pone como mal vale, o sea que</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/9480-1
+00:48:48.583 --> 00:48:52.255
+<v Full stack Full Time>que tiene en cuenta el tipo de
+cambio? Exacto.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/9482-0
+00:48:54.385 --> 00:48:54.455
+<v Full stack Full Time>Sí.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/9517-0
+00:48:56.905 --> 00:49:00.655
+<v Full stack Full Time>Vale, voy a poner cosas porque
+el esto hay que hacerlo al</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/9517-1
+00:49:00.655 --> 00:49:04.665
+<v Full stack Full Time>revés, por eso casi siempre es
+mejor evitar intentar a lo más</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/9517-2
+00:49:04.665 --> 00:49:06.475
+<v Full stack Full Time>posible usar el exclamación.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/9558-0
+00:49:06.485 --> 00:49:09.433
+<v Full stack Full Time>Porque María, que tipa, lo que
+dice, Vito, lo puedes hacer lo</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/9558-1
+00:49:09.433 --> 00:49:12.239
+<v Full stack Full Time>mismo con igual, igual y no te
+mareas tanto, pero yo os lo</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/9558-2
+00:49:12.239 --> 00:49:15.045
+<v Full stack Full Time>cuento porque la gente le gusta
+mucho hacer las cosas a la</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/9558-3
+00:49:15.045 --> 00:49:15.425
+<v Full stack Full Time>inversa.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/9569-0
+00:49:17.695 --> 00:49:20.445
+<v Full stack Full Time>¿Sí hemos es, hemos entendido
+que es diferente, no?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/9575-0
+00:49:20.795 --> 00:49:21.815
+<v Full stack Full Time>Pues esos son los operadores.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/9600-0
+00:49:24.145 --> 00:49:30.479
+<v Full stack Full Time>¿De comparación los los, los
+lógicos los ilógicos, los</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/9600-1
+00:49:30.479 --> 00:49:34.625
+<v Full stack Full Time>lógicos, son estos valen ahora,
+EH?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/9617-0
+00:49:34.635 --> 00:49:37.830
+<v Full stack Full Time>Este es excavación, pero no es
+el mismo Exclamación, hemos</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/9617-1
+00:49:37.830 --> 00:49:38.805
+<v Full stack Full Time>visto antes, vaya.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/9648-0
+00:49:43.885 --> 00:49:46.494
+<v Full stack Full Time>¿Los dos, visto que salía a ver
+carne, para ponerte un poco en</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/9648-1
+00:49:46.494 --> 00:49:49.185
+<v Full stack Full Time>situación, porque la cara no ha
+venido y se ha encontrado alguna</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/9648-2
+00:49:49.185 --> 00:49:49.765
+<v Full stack Full Time>guerra, sabes?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/9718-0
+00:49:51.555 --> 00:49:54.869
+<v Full stack Full Time>Que cuando esta gente que muchas
+muertes por eso no puedo hacer</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/9718-1
+00:49:54.869 --> 00:49:58.235
+<v Full stack Full Time>condicionales, vale, estamos con
+condicionales, es decir, típico</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/9718-2
+00:49:58.235 --> 00:50:01.446
+<v Full stack Full Time>de Ah cumple esta condición,
+pues haces este código cuando te</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/9718-3
+00:50:01.446 --> 00:50:04.812
+<v Full stack Full Time>haces un login, por ejemplo, si
+he puesto bien la contraseña, te</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/9718-4
+00:50:04.812 --> 00:50:08.023
+<v Full stack Full Time>deja pasado a la siguiente lista
+y si te has equivocado, pues</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/9718-5
+00:50:08.023 --> 00:50:11.285
+<v Full stack Full Time>estamos viendo cómo se hace este
+tipo de cosas con código pero</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/9718-6
+00:50:11.285 --> 00:50:11.855
+<v Full stack Full Time>muy básico.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/9743-0
+00:50:12.005 --> 00:50:16.430
+<v Full stack Full Time>¿Es decir, sí, tu edad es igual
+a 30, pues haces esto, si no no</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/9743-1
+00:50:16.430 --> 00:50:18.435
+<v Full stack Full Time>haces esto por ejemplo, vale?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/9763-0
+00:50:19.025 --> 00:50:22.137
+<v Full stack Full Time>¿Entonces, lo que estamos viendo
+son los típicos operadores</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/9763-1
+00:50:22.137 --> 00:50:25.405
+<v Full stack Full Time>mayor, menor, igual igual, pero
+lo que estamos haciendo, vale?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/9786-0
+00:50:27.515 --> 00:50:30.367
+<v Full stack Full Time>No sé lo normal, tú te levantas,
+te haces un colacao y te pones a</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/9786-1
+00:50:30.367 --> 00:50:31.015
+<v Full stack Full Time>ver operadores.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/9796-0
+00:50:33.685 --> 00:50:34.985
+<v Full stack Full Time>Entonces, seguimos viendo a
+operadores.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/9805-0
+00:50:36.105 --> 00:50:38.675
+<v Full stack Full Time>¿Eran Valera para qué se tenían?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/9815-0
+00:50:38.685 --> 00:50:41.235
+<v Full stack Full Time>¿Se tiene que cumplir dos
+condiciones, vale?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/9846-0
+00:50:41.625 --> 00:50:44.546
+<v Full stack Full Time>Y el oro es que si se cumple una
+condición o la otra, esto se va</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/9846-1
+00:50:44.546 --> 00:50:47.511
+<v Full stack Full Time>a entender mejor con un ejemplo,
+vale, te lo vamos directamente a</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/9846-2
+00:50:47.511 --> 00:50:48.095
+<v Full stack Full Time>los ejemplos.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/9867-0
+00:50:48.895 --> 00:50:52.198
+<v Full stack Full Time>Os he preparado yo aquí una
+serie de ejemplos y vamos a ir</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/9867-1
+00:50:52.198 --> 00:50:53.205
+<v Full stack Full Time>jugando con ellos.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/9870-0
+00:50:53.215 --> 00:50:54.335
+<v Full stack Full Time>Vale, solo voy a quitar.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/9880-0
+00:50:56.525 --> 00:50:58.495
+<v Full stack Full Time>Para otra vez edge, sí.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/9892-0
+00:50:58.505 --> 00:51:01.035
+<v Full stack Full Time>¿Dónde está la variable esa si
+me va a Petar con código?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/9898-0
+00:51:01.595 --> 00:51:03.615
+<v Full stack Full Time>¿Vamos a llamarlo Excel vale?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/9903-0
+00:51:07.195 --> 00:51:07.505
+<v Full stack Full Time>Bye.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/9910-0
+00:51:08.405 --> 00:51:12.975
+<v Full stack Full Time>¿Entonces tenemos aquí el Tag
+167, no?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/9936-0
+00:51:13.305 --> 00:51:17.724
+<v Full stack Full Time>No variable con el 17 y otra
+variable personal, que sigan sus</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/9936-1
+00:51:17.724 --> 00:51:18.935
+<v Full stack Full Time>valores, IVA, sí.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/9942-0
+00:51:20.135 --> 00:51:21.205
+<v Full stack Full Time>¿Cómo se llama este operador?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/9955-0
+00:51:21.215 --> 00:51:23.685
+<v Full stack Full Time>Es un operador de así es así muy
+bien.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/9957-0
+00:51:23.695 --> 00:51:24.255
+<v Full stack Full Time>¿Estás en nación?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/9972-0
+00:51:25.395 --> 00:51:32.175
+<v Full stack Full Time>¿Vale, pues hay un hit, sí e 3
+es mayor, igual a 17 vale?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/9978-0
+00:51:33.955 --> 00:51:35.885
+<v Full stack Full Time>Oh, esne.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/9999-0
+00:51:36.065 --> 00:51:40.863
+<v Full stack Full Time>¿Es igual igual a Iván, vas a
+decir el menor de edad o te</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/9999-1
+00:51:40.863 --> 00:51:42.765
+<v Full stack Full Time>llamas el nombre es Eh?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/10015-0
+00:51:42.775 --> 00:51:45.385
+<v Full stack Full Time>¿Te voy a poner lo del Z así lo
+veis?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/10067-0
+00:51:46.625 --> 00:51:51.387
+<v Full stack Full Time>¿Sí es la tarde, entonces este
+este if lo que va a hacer es que</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/10067-1
+00:51:51.387 --> 00:51:55.777
+<v Full stack Full Time>si se cumple una de las dos
+ejecutará con que una de estas</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/10067-2
+00:51:55.777 --> 00:52:00.092
+<v Full stack Full Time>dos, es decir, oh, con que esta
+o está se cumpla, se va a</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/10067-3
+00:52:00.092 --> 00:52:02.845
+<v Full stack Full Time>ejecutar el con solo una de las
+dos?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/10099-0
+00:52:02.855 --> 00:52:08.883
+<v Full stack Full Time>Sí, en este segundo que hace sí
+estrés es menor o igual a 17 y</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/10099-1
+00:52:08.883 --> 00:52:14.432
+<v Full stack Full Time>su nombre es Iván, lo harás,
+pero tiene que cumplirse las</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/10099-2
+00:52:14.432 --> 00:52:14.815
+<v Full stack Full Time>dos.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/10160-0
+00:52:14.905 --> 00:52:19.122
+<v Full stack Full Time>En este caso, no me vale con que
+se cumpla esta o esta, tienen</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/10160-1
+00:52:19.122 --> 00:52:22.737
+<v Full stack Full Time>que ser las dos con que una
+falla este con solo 1 sea</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/10160-2
+00:52:22.737 --> 00:52:26.753
+<v Full stack Full Time>mostrar vale y esta es sí está,
+digamos en este caso lo que</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/10160-3
+00:52:26.753 --> 00:52:30.702
+<v Full stack Full Time>estamos haciendo es ver si no
+hay fernet, si no hay fernet</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/10160-4
+00:52:30.702 --> 00:52:31.505
+<v Full stack Full Time>dirá Fernet.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/10177-0
+00:52:31.515 --> 00:52:34.053
+<v Full stack Full Time>No está definido en este caso,
+sí que hay, pero si luego, por</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/10177-1
+00:52:34.053 --> 00:52:35.445
+<v Full stack Full Time>ejemplo, pongo comillas.
+Gracias.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/10200-0
+00:52:35.455 --> 00:52:39.125
+<v Full stack Full Time>Y que pasa tragos, vale ahora
+con lo que acabo de explicar,</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/10200-1
+00:52:39.125 --> 00:52:42.305
+<v Full stack Full Time>decirme que con solos se van a
+mostrar por consola.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/10221-0
+00:52:44.085 --> 00:52:47.845
+<v Full stack Full Time>Eres menor de edad porque íbamos
+bueno, sí.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/10247-0
+00:52:47.855 --> 00:52:50.738
+<v Full stack Full Time>Para colgarme que si no me
+pongas clase no vamos a hacer</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/10247-1
+00:52:50.738 --> 00:52:53.115
+<v Full stack Full Time>este y descansáis y luego
+seguimos con bucles.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/10256-0
+00:52:54.335 --> 00:52:57.875
+<v Full stack Full Time>Vale igual son los van a salir,
+eres buena.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/10273-0
+00:53:00.405 --> 00:53:03.155
+<v Full stack Full Time>El vale, vale, cuídate a ella,
+no es un es.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/10287-0
+00:53:03.545 --> 00:53:05.923
+<v Full stack Full Time>Es decir, esto si se van a
+ejecutar todos, no son, no</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/10287-1
+00:53:05.923 --> 00:53:06.275
+<v Full stack Full Time>depende.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/10320-0
+00:53:06.285 --> 00:53:10.621
+<v Full stack Full Time>1 del otro, fijaos, no he hecho
+un ir y luego en el zip, sino</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/10320-1
+00:53:10.621 --> 00:53:14.957
+<v Full stack Full Time>que es I son independientes los
+if, vale, pero vale, entonces</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/10320-2
+00:53:14.957 --> 00:53:16.705
+<v Full stack Full Time>más o menos los primeros.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/10325-0
+00:53:16.875 --> 00:53:22.805
+<v Full stack Full Time>Sí, vale, muy bien, sí, ahora
+en.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/10330-0
+00:53:28.655 --> 00:53:29.165
+<v Full stack Full Time>¿Cuál va a salir?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/10341-0
+00:53:31.815 --> 00:53:34.565
+<v Full stack Full Time>Porque es que eres mayor, que se
+cumple.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/10351-0
+00:53:34.575 --> 00:53:36.425
+<v Full stack Full Time>Lo de Iván se cumple una u otra.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/10374-0
+00:53:36.435 --> 00:53:41.452
+<v Full stack Full Time>Se cumple lo de Iván y en la
+segunda no se cumplen las dos,</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/10374-1
+00:53:41.452 --> 00:53:46.135
+<v Full stack Full Time>cuando se cumple, pues los 18,
+la de la de entiende es.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/10401-0
+00:53:48.345 --> 00:53:54.645
+<v Full stack Full Time>Bien, genial, vale solo cumple
+la primera muy bien y ahora te</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/10401-1
+00:53:54.645 --> 00:53:56.575
+<v Full stack Full Time>vamos a poner aquí.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/10406-0
+00:53:57.925 --> 00:54:00.345
+<v Full stack Full Time>¿Antepone la segunda?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/10425-0
+00:54:01.315 --> 00:54:04.955
+<v Full stack Full Time>Vale, Andrea fin no está
+definido, esto es para es para</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/10425-1
+00:54:04.955 --> 00:54:06.385
+<v Full stack Full Time>ver si si no hay algo.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/10439-0
+00:54:06.815 --> 00:54:09.414
+<v Full stack Full Time>¿Ah, no hay nombre, pues
+entonces, imaginas que a veces</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/10439-1
+00:54:09.414 --> 00:54:09.785
+<v Full stack Full Time>os reís?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/10474-0
+00:54:09.795 --> 00:54:12.272
+<v Full stack Full Time>Porque veis aún definir, vale
+que has puesto un define claro</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/10474-1
+00:54:12.272 --> 00:54:14.831
+<v Full stack Full Time>que no está definido, pero es
+que vosotros haréis una petición</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/10474-2
+00:54:14.831 --> 00:54:16.415
+<v Full stack Full Time>a un servidor y no llegarán los
+datos.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/10539-0
+00:54:16.425 --> 00:54:19.165
+<v Full stack Full Time>Entonces, si no llegan a los
+datos que significa que no están</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/10539-1
+00:54:19.165 --> 00:54:21.816
+<v Full stack Full Time>definidos, entonces llegan de
+fanáticos para que en caso de</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/10539-2
+00:54:21.816 --> 00:54:24.644
+<v Full stack Full Time>que llegue undefined, me digas
+que no sabes unido, aunque ahora</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/10539-3
+00:54:24.644 --> 00:54:27.295
+<v Full stack Full Time>no le vayas un poco más o menos,
+esto suene, vale, luego ya</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/10539-4
+00:54:27.295 --> 00:54:28.665
+<v Full stack Full Time>haremos más ejemplo más reales.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/10543-0
+00:54:29.455 --> 00:54:31.065
+<v Full stack Full Time>¿Karen y cómo vas?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/10557-0
+00:54:31.695 --> 00:54:34.395
+<v Full stack Full Time>Bueno, yo le revisé un poco ayer
+muy bien.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/10584-0
+00:54:34.405 --> 00:54:38.217
+<v Full stack Full Time>Estoy más o menos ubicas que
+estamos con condiciones, sí, y</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/10584-1
+00:54:38.217 --> 00:54:41.647
+<v Full stack Full Time>en un desfile también, si tú
+estás con tu código y de</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/10584-2
+00:54:41.647 --> 00:54:42.155
+<v Full stack Full Time>repente.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/10608-0
+00:54:44.025 --> 00:54:47.801
+<v Full stack Full Time>¿Pones eso para sí en un futuro
+quiere por ponerla aquí, algo no</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/10608-1
+00:54:47.801 --> 00:54:49.195
+<v Full stack Full Time>pones una MdE falta, no?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/10633-0
+00:54:49.745 --> 00:54:51.904
+<v Full stack Full Time>A ver, por eso, a veces, definir
+algunas de España porque sabes</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/10633-1
+00:54:51.904 --> 00:54:53.355
+<v Full stack Full Time>que luego depende de lo que
+quieras hacer.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/10677-0
+00:54:53.365 --> 00:54:57.342
+<v Full stack Full Time>¿Si tú quieres luego rellenar,
+le decía, están definidas y</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/10677-1
+00:54:57.342 --> 00:55:01.118
+<v Full stack Full Time>mientras están define hace esto
+y cuando ya deje de ser</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/10677-2
+00:55:01.118 --> 00:55:05.297
+<v Full stack Full Time>definidas lo otro solo hay gente
+que lo programa así, también</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/10677-3
+00:55:05.297 --> 00:55:06.915
+<v Full stack Full Time>vale, sí, vale, pues EH?</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/10691-0
+00:55:10.315 --> 00:55:12.105
+<v Full stack Full Time>Vale, voy a dejar el técnico
+para después.</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/10706-0
+00:55:12.115 --> 00:55:16.039
+<v Full stack Full Time>¿Creo que así más descansamos
+media horita, sí, pero y luego,</v>
+
+4a127c94-0fb4-4a06-8353-eacdc52c4786/10706-1
+00:55:16.039 --> 00:55:17.115
+<v Full stack Full Time>ya te digo, vale?</v>
